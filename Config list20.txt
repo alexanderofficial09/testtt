@@ -1,3 +1,4 @@
+vless://d9011597-b3e0-44ab-9048-b791e0e8bc45@104.17.135.188:443?security=tls&sni=neko.bzero1250.workers.dev&type=ws&host=neko.bzero1250.workers.dev&path=%2F%3Fed%3D2560&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.135.188:443
 vless://17272b75-51c8-4999-a4ce-b3bd8679e04e@172.64.89.161:443?security=tls&sni=liu133.us.kg&type=ws&host=liu133.us.kg&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.89.161:443
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.33:8080?security=none&type=ws&host=gozargah.validbv7996.ir&path=%2F#🔒 VL-WS-NONE 🇳🇱 NL-45.131.4.33:8080
 vless://ee29fa1d-a706-4035-bea1-ae1f73845f65@172.64.150.8:8443?security=tls&sni=usa.v2ray.com.br&type=ws&host=usa.v2ray.com.br&path=%2Frussian&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.150.8:8443
@@ -497,4 +498,3 @@ trojan://a1bec5fe-74b4-4ef7-859b-ca4b27f9cb5c@123.1.199.79:21703?security=tls&sn
 trojan://Trevely@172.64.33.110:443?security=tls&sni=trojan.trevely.us.kg&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-172.64.33.110:443
 trojan://bpb-trojan@172.67.209.80:443?security=tls&sni=403b3611-99Bc-43b7-88D7-26ED5d0825a9-3.pAgeS.Dev&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-172.67.209.80:443
 trojan://Aimer@192.200.160.15:8443?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-192.200.160.15:8443
-trojan://Aimer@154.211.8.18:2083?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=ws&host=ngepy.ambercc.filegear-sg.me#🔒 TR-WS-TLS 🇺🇸 US-154.211.8.18:2083

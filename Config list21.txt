@@ -1,3 +1,4 @@
+trojan://Aimer@154.211.8.18:2083?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=ws&host=ngepy.ambercc.filegear-sg.me#🔒 TR-WS-TLS 🇺🇸 US-154.211.8.18:2083
 trojan://e3c41c94-097d-475e-8de5-d983d8df7cf1@45.146.232.171:46668?security=tls&sni=q08m.vgraxiw73s.hasyaf.cn&type=tcp#🔒 TR-TCP-TLS 🇭🇰 HK-45.146.232.171:46668
 trojan://87c29139-765a-441e-a82d-fdbb46697695@168.138.174.229:443?security=tls&sni=sg-2503-2.upd86.de&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇸🇬 SG-168.138.174.229:443
 trojan://b4e8771997c94732acbc9ec4d19c2589@198.41.220.8:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.8:443
@@ -497,4 +498,3 @@ trojan://67eb147db1c0f8c5@60.249.28.59:443?security=tls&sni=007.com&type=grpc&se
 trojan://Aimer@222.97.9.166:50004?security=tls&sni=ngepo.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇰🇷 KR-222.97.9.166:50004
 trojan://Aimer@5.182.84.120:443?sni=agepy.aimercc.filegear-sg.me&allowInsecure=1#🔒 TR-TCP-NA 🇷🇺 RU-5.182.84.120:443
 trojan://Aimer@199.34.228.50:2053?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-199.34.228.50:2053
-trojan://Aimer@47.91.18.127:443?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇯🇵 JP-47.91.18.127:443

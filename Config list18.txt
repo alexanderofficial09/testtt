@@ -1,3 +1,4 @@
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.75.194:8443?security=tls&sni=5-55sfjslf.ifenxiang.cfd&type=ws&host=5-55sfjslf.ifenxiang.cfd&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.75.194:8443
 vless://716e8c06-40e6-41ae-82ca-db79b41112c2@188.114.98.218:443?security=tls&sni=calm-bonus-748d.jixosey717.workers.dev&type=ws&host=calm-bonus-748d.jixosey717.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.218:443
 vless://55520747-311e-4015-83ce-be46e2060ce3@63.141.128.163:443?security=tls&sni=uu.vs2024.us.kg&type=ws&host=uu.vs2024.us.kg&path=%2Fuxs.vs2024.us.kg&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-63.141.128.163:443
 vless://b6f52521-c65d-43d6-bca4-76790c68d6fd@104.20.225.252:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.225.252:443
@@ -497,4 +498,3 @@ vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.1.105:80?type=ws&host=teleir
 vless://34842069-dcb9-4595-bd60-20b0562c56e5@108.162.192.217:2096?security=tls&sni=us-228.memories-00.space&type=xhttp&path=/api/v1&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-XHTTP-TLS 🏴‍☠️ NA-108.162.192.217:2096
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.200:80?security=none&type=ws&host=gozargah.validbv7996.ir&path=Telegram🇨🇳@WangCai2/?ed#🔒 VL-WS-NONE 🇳🇱 NL-45.131.4.200:80
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.16.41.105:443?security=tls&sni=kawaiifreevpn-7ds.pages.dev&type=ws&host=kawaiifreevpn-7ds.pages.dev&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.41.105:443
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@50.62.172.113:80?security=none&type=ws&host=a.xn--i-sx6a60i.us.kg.#🔒 VL-WS-NONE 🇺🇸 US-50.62.172.113:80

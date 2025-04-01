@@ -1,3 +1,4 @@
+trojan://Aimer@47.91.18.127:443?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇯🇵 JP-47.91.18.127:443
 trojan://2YDH6ktJOt@172.67.161.74:8443?security=tls&sni=support.sabapardaziran.ir&type=ws&host=support.sabapardaziran.ir&path=%2F%40M3HDIO1&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.161.74:8443
 trojan://e3c41c94-097d-475e-8de5-d983d8df7cf1@45.146.232.171:27201?security=tls&sni=q08m.vgraxiw73s.hasyaf.cn&type=tcp#🔒 TR-TCP-TLS 🇭🇰 HK-45.146.232.171:27201
 trojan://6849c459-9b04-46e6-8dd8-f92812711563@45.146.232.171:43591?security=tls&sni=q08m.vgraxiw73s.hasyaf.cn&type=tcp#🔒 TR-TCP-TLS 🇭🇰 HK-45.146.232.171:43591
@@ -497,4 +498,3 @@ ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@69.50.95.245:445#🔒 SS-TCP-NA 🇺�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMGZhM2E5Yi0yMTE1LTRjYzAtYThmNS03ZjRmN2NhZjZlYzE=@92.223.2.79:8080#🔒 SS-TCP-NA 🇦🇲 AM-92.223.2.79:8080
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@134.195.196.81:443#🔒 SS-TCP-NA 🇨🇦 CA-134.195.196.81:443
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@217.182.198.219:3306#🔒 SS-TCP-NA 🇩🇪 DE-217.182.198.219:3306
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.60:8080#🔒 SS-TCP-NA 🇫🇷 FR-45.158.171.60:8080
