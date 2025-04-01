@@ -82,7 +82,8 @@ def main():
         'https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity.txt',
         'https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/normal/mix',
         'https://mrpooya.top/api/lena.php'
-        'https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/row-url/all.txt'
+        'https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/row-url/all.txt',
+        'https://raw.githubusercontent.com/barry-far/V2ray-Configs/refs/heads/main/All_Configs_Sub.txt',
         'https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/row-url/actives.txt'
         'https://raw.githubusercontent.com/freev2rayconfig/V2RAY_SUBSCRIPTION_LINK/main/v2rayconfigs.txt'
         'https://raw.githubusercontent.com/shabane/kamaji/master/hub/merged.txt'
