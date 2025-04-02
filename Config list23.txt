@@ -1,5 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@43.207.207.206:2377#🔒 SS-TCP-NA 🇯🇵 JP-43.207.207.206:2377
-ss://YWVzLTI1Ni1nY206UFJDVUo4SU5QTjlLWlc3Mg==@185.186.78.220:20035#🔒 SS-TCP-NA 🇸🇪 SE-185.186.78.220:20035
 ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA==@5.188.181.201:9003#🔒 SS-TCP-NA 🇪🇸 ES-5.188.181.201:9003
 ss://YWVzLTEyOC1nY206U19rRzVJVm9ib3pWeTc3RlRhWFl6Zw==@172.236.19.190:1080#🔒 SS-TCP-NA 🇬🇧 GB-172.236.19.190:1080
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.121.43.71:8119#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.71:8119
@@ -498,3 +496,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNWZlZjQ5NS1mN2Y2LTQxOTMtODk0NS03MDljNjIyZjA
 trojan://Aimer@121.176.193.140:16036?sni=epccq.ambercc.filegear-sg.me#%F0%9F%87%B0%F0%9F%87%B7KR%E9%9F%A9%E5%9B%BD
 trojan://Aimer@43.156.116.194:443?sni=agepw.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A565
 trojan://fnufMt%3AsQ%26rC0HUu@172.66.47.84:2083?security=tls&type=ws&sni=joinmAHDIsERVER-6vv.PaGeS.dEv&host=joinmahdiserver-6vv.pages.dev#%E6%9C%AA%E7%9F%A566
+trojan://6d898085-bf6a-449b-9763-0073d4dc2ce0@172.67.168.62:443?security=tls&type=ws&sni=BoSTON03.862224.ggFf.neT&path=/Q3cz2AWTPMCtDGV1L6R1Jz18eIUw&host=boston03.862224.ggff.net#%E6%9C%AA%E7%9F%A567
+trojan://ouo@65.75.193.154:14491?type=ws&sni=tr.koiok.us.kg&host=tr.koiok.us.kg#US24

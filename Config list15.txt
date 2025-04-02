@@ -1,5 +1,3 @@
-vless://157448af-8ecf-4075-a9e9-b23a6a94899b@185.156.44.119:8443?security=tls&sni=buh-ro-01.fromblancwithlove.com&type=tcp&alpn=h2&allowInsecure=1#🔒 VL-TCP-TLS 🇷🇴 RO-185.156.44.119:8443
-vless://41454b20-c9f8-4392-85df-fb6c69447c59@199.232.66.133:443?security=tls&sni=huffingtonpost.es&type=xhttp&host=joinbede_unlimiteddev.ir#🔒 VL-XHTTP-TLS 🇺🇸 US-199.232.66.133:443
 vless://b6f52521-c65d-43d6-bca4-76790c68d6fd@162.159.195.50:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.195.50:443
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.201:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.201:80
 vless://a6ebd65f-2ab3-46f0-bf6b-3605f747434f@154.197.121.138:8080?security=none&type=ws&host=sNaPp.MaStErSrV.ir.&path=%3Fed%3D8080#🔒 VL-WS-NONE 🇬🇧 GB-154.197.121.138:8080
@@ -498,3 +496,5 @@ vless://054d503d-4748-47a6-8118-71a96c51f2d9@172.66.168.197:443?security=tls&sni
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.64.35.188:443?security=tls&sni=il.ylkszy.eu.org&type=ws&host=il.ylkszy.eu.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.35.188:443
 vless://62d8d572-6bb8-4a27-8e14-dfee6f61af2d@116.203.40.130:1717?security=none#🔒 VL-TCP-NONE 🇩🇪 DE-116.203.40.130:1717
 vless://54d4ea29-41d8-4bba-bf33-db619ff4fa43@46.254.93.124:8880?security=none&type=httpupgrade&host=sNaPp.MaStErSrV.ir.#🔒 VL-HTTPUPGRADE-NONE 🇷🇺 RU-46.254.93.124:8880
+vless://d35f5fd4-d4bb-44e7-ccd6-9d7057a9cf97@46.38.142.189:2468?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-46.38.142.189:2468
+vless://716e8c06-40e6-41ae-82ca-db79b41112c2@141.101.113.89:443?security=tls&sni=calm-bonus-748d.jixosey717.workers.dev&type=ws&host=calm-bonus-748d.jixosey717.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-141.101.113.89:443
