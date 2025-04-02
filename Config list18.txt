@@ -1,3 +1,5 @@
+vless://e89e29b5-9a0c-4a22-b51c-b4c2a9586828@188.114.99.147:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.99.147:443
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.67.73.216:443?security=tls&sni=in.youlingkais.filegear-sg.me&type=ws&host=in.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.73.216:443
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.17:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.17:8880
 vless://1fed1d91-d9c6-4388-c5ff-a1b20cb5cba9@172.67.161.74:2053?security=tls&sni=support.sabapardaziran.ir&type=ws&host=support.sabapardaziran.ir&path=%2F%F0%9F%86%94%40M3HDIO1&fp=chrome&alpn=h2%2Chttp%2F1.1%2Ch3#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.161.74:2053
 vless://c3c07679-bddc-4ce8-9cc4-57b550a1c000@172.67.75.194:443?security=tls&sni=ssss4SssSsssssSssS.paGES.DeV&type=ws&host=sssS4SsSsssSSSsSSS.PageS.dEV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.75.194:443
@@ -496,5 +498,3 @@ vless://361427b1-5cf9-4ae6-bd1b-5dbf99a21b61@109.107.159.69:22069?type=tcp#🔒 
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@104.17.148.22:2053?security=tls&sni=SrNbU9wBjU.mYsPdMmEtI.cOm&type=grpc&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.148.22:2053
 vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@150.109.24.233:6666?security=tls&sni=ngedc.ambercc.filegear-sg.me&type=ws&path=%2F%3Fed&fp=chrome#🔒 VL-WS-TLS 🇸🇬 SG-150.109.24.233:6666
 vless://0a44145f-59dc-4e5b-a233-677b97f5114c@135.148.174.211:443?security=tls&sni=147135011033.sec21org.com&type=tcp&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&fp=chrome#🔒 VL-TCP-TLS 🇺🇸 US-135.148.174.211:443
-vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.4:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.4:80
-vless://f558f4db-96e5-4e79-8b57-34e39ba4899b@104.21.32.1:8880?security=none&type=ws&host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ws79.cloudfront.net.kiava.fun#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.32.1:8880
