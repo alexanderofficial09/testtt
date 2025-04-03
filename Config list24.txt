@@ -1,5 +1,3 @@
-hysteria2://82febca6-8856-41fe-84df-c8bda0b72c7b@tw3.akebi.cc:2000?insecure=0&sni=hk03.akebi.cc#1%7C%F0%9F%87%AD%F0%9F%87%B02%20%7C%20%203.4MB/s
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@131.186.62.158:443?allowInsecure=1&sni=edccw.aimercc.filegear-sg.me&type=ws&host=edccw.aimercc.filegear-sg.me&path=/?ed=2560security=tls#1%7C%F0%9F%87%B9%F0%9F%87%BC28%20%7C%20%203.9MB/s
 hysteria2://dongtaiwang.com@46.17.41.217:4395?insecure=1&sni=www.bing.com#1%7C%F0%9F%87%B7%F0%9F%87%BA2%20%7C%20%201.0MB/s
 vless://e8c06684-7fb7-4448-dcd7-468ef40a36f3@47.129.119.183:21918?allowInsecure=0#1%7C%F0%9F%87%B8%F0%9F%87%AC3%20%7C%20%206.6MB/s
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@27.50.49.234:8443?allowInsecure=1&sni=edccw.aimercc.filegear-sg.me&type=ws&path=/?ed=2560security=tls#1%7C%F0%9F%87%B9%F0%9F%87%BC29%20%7C%20%205.3MB/s
