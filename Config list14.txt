@@ -1,5 +1,3 @@
-vless://5c80fb98-d9ad-4a89-9189-237881d2ef89@213.202.223.187:8443?security=reality&flow=xtls-rprx-vision&sni=dropbox.com&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒 VL-TCP-RLT 🇩🇪 DE-213.202.223.187:8443
-vless://02c4a6a1-d172-4d8b-b4a8-20cefec25b1c@65.109.217.77:2053?security=reality&sni=yahoo.com&type=xhttp&host=Mamalcdn1.global.ssl.fastly.net&path=%2Fwp-admin.php%3Fed%3D2083&fp=chrome&pbk=epClMtnSZ85KDpWZTTkg_Qm3_OIRh0CbWgX68PapVSY&sid=7d5398c646431ec0#🔒 VL-XHTTP-RLT 🇫🇮 FI-65.109.217.77:2053
 vless://5c80fb98-d9ad-4a89-9189-237881d2ef89@213.202.223.233:8443?security=reality&sni=02020.sbs&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwB&allowInsecure=1#🔒 VL-TCP-RLT 🇩🇪 DE-213.202.223.233:8443
 vless://3691f715-024c-411b-b269-d4a593f04ff2@194.49.53.184:443?security=reality&flow=xtls-rprx-vision&sni=maviks.eu&type=tcp&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=21181028b56c8702#🔒 VL-TCP-RLT 🇳🇱 NL-194.49.53.184:443
 vless://161b8c69-b432-4865-8c1f-8d4a3406866b@168.119.154.98:443?security=reality&sni=ftp.debian.org&type=grpc&fp=chrome&pbk=6FcfJl0x7JEzgqiUgSTZjOuqo90YOG0SOXTTt8hLOm4&sid=ce00a8c4#🔒 VL-GRPC-RLT 🇩🇪 DE-168.119.154.98:443
@@ -498,3 +496,5 @@ vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.168:80?security=none&ty
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.193:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.193:8880
 vless://157448af-8ecf-4075-a9e9-b23a6a94899b@138.199.27.206:8443?security=tls&sni=cdg-1.fromblancwithlove.com&type=tcp&alpn=h2#🔒 VL-TCP-TLS 🇫🇷 FR-138.199.27.206:8443
 vless://55520747-311e-4015-83ce-be46e2060ce3@212.183.88.231:443?sni=uu.vs2024.us.kg&type=ws&host=uu.vs2024.us.kg#🔒 VL-WS-NA 🇦🇹 AT-212.183.88.231:443
+vless://2370f4d8-6694-4e51-8c72-b2782ae96a59@172.64.78.198:80?security=none&type=ws&host=withered-wave-ee0b-ppal03.faxip46069.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.78.198:80
+vless://e80a5c54-ea7d-4eeb-80a4-76d1c6a0b1c6@173.245.59.100:8880?security=none&type=httpupgrade&host=iraniV2ray.nanowaash-shop.ir.#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-173.245.59.100:8880

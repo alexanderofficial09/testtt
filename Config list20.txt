@@ -1,5 +1,3 @@
-vless://7342c30d-7b40-4302-b083-ea9b0c4c3baa@185.143.235.1:8080?security=none&type=ws&host=dash.iranpoems.ir&path=%2Ftelegram-shrakpublic.rar#🔒 VL-WS-NONE 🇮🇷 IR-185.143.235.1:8080
-vless://e0c579e5-d86f-426b-bbee-f815821a34c3@104.21.32.1:80?security=none&type=ws&host=azadnet-2.azadnet-team.workers.dev&path=%2FDoaoovdDWjHii1lH%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.32.1:80
 vless://55520747-311e-4015-83ce-be46e2060ce3@212.183.88.94:443?sni=uu.vs2024.us.kg&type=ws&host=uu.vs2024.us.kg#🔒 VL-WS-NA 🇦🇹 AT-212.183.88.94:443
 vless://12b3cbba-e6ac-485a-9481-546a0415eab9@172.67.190.208:443?security=tls&sni=eSETSECURITyLIcEnse.gpGRbd.woRKErS.dEv&type=ws&host=EsETsECUrItyLiCENsE.GpGrbd.WorkERS.Dev&path=%2FBtvjgv4WL5X48Nfv%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.190.208:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@185.146.173.39:2083?security=tls&sni=hAstI.freeAIrLAINEs.coM&type=ws&host=HASTI.fREEAIrLAINeS.Com&path=%2FFKnSNrPXVx6punGp%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.39:2083
@@ -498,3 +496,5 @@ trojan://268f8604-ae22-47ea-a846-121bfa584236@45.146.232.171:43394?security=tls&
 trojan://b2d0b65a-616c-433d-8e7b-08af61017fa8@45.146.232.171:27002?security=tls&sni=q08m.vgraxiw73s.hasyaf.cn&type=tcp#🔒 TR-TCP-TLS 🇭🇰 HK-45.146.232.171:27002
 trojan://auto@172.66.45.2:443?security=tls&sni=dcf741e8.epeius-2gy.pages.dev&type=ws&host=dcf741e8.epeius-2gy.pages.dev&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.45.2:443
 trojan://Aimer@5.182.84.22:2096?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇷🇺 RU-5.182.84.22:2096
+trojan://VW9s45aUKb@172.67.161.74:2087?security=tls&sni=support.sabapardaziran.ir&type=grpc&serviceName=%2F%F0%9F%86%94%40M3HDIO1&fp=chrome&alpn=h2%2Chttp%2F1.1%2Ch3#🔒 TR-GRPC-TLS 🏴‍☠️ NA-172.67.161.74:2087
+trojan://c443be95-725d-4da3-a60f-d35af5bfbff8@23.172.40.143:17742?allowInsecure=0#🔒 TR-TCP-NA 🇺🇸 US-23.172.40.143:17742
