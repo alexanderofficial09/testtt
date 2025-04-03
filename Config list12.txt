@@ -1,3 +1,5 @@
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.121.43.71:7001#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.71-4768
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@142.202.49.84:6679#%F0%9F%87%BA%F0%9F%87%B8US-142.202.49.84-5302
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.121.43.71:2376#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.71-5604
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.121.43.71:8091#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.71-4762
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.157.40.101:7307#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.101-5778
@@ -496,5 +498,3 @@ trojan://Aimer@167.68.5.248:2087?allowInsecure=0&sni=epccw.ambercc.filegear-sg.m
 trojan://Aimer@theo.ns.cloudflare.com:443?allowInsecure=0&sni=epccw.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
 trojan://Aimer@lynn.ns.cloudflare.com:443?allowInsecure=0&sni=epccw.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
 trojan://Aimer@27.50.48.61:2083?allowInsecure=0&sni=epccw.ambercc.filegear-sg.me#_%E4%B8%AD%E5%9B%BD
-trojan://Aimer@ignacio.ns.cloudflare.com:443?allowInsecure=0&sni=epccw.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
-trojan://Aimer@46.254.92.191:443?allowInsecure=0&sni=epccw.ambercc.filegear-sg.me#%F0%9F%87%B7%F0%9F%87%BA%20_%E4%BF%84%E7%BD%97%E6%96%AF
