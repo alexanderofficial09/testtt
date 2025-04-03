@@ -1,3 +1,4 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZc0JaVHQ4M2dCMkhYMDl0OWFTTGFG@2.56.177.254:8443#🔒 SS-TCP-NA 🇰🇿 KZ-2.56.177.254:8443
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@134.195.196.193:8000#🔒 SS-TCP-NA 🇨🇦 CA-134.195.196.193:8000
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@211.72.214.21:2377#🔒 SS-TCP-NA 🇹🇼 TW-211.72.214.21:2377
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@107.148.6.121:8388#🔒 SS-TCP-NA 🇯🇵 JP-107.148.6.121:8388
@@ -497,4 +498,3 @@ trojan://Aimer@5.182.84.22:2096?security=tls&type=tcp&sni=ngepx.ambercc.filegear
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@139.162.116.7:2377#%E6%9C%AA%E7%9F%A5116
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@18.181.146.122:2377#%E6%9C%AA%E7%9F%A5117
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.121.43.71:5004#US40%201.5MB%2Fs
-trojan://trojan@104.17.148.22:2053?security=tls&type=ws&sni=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&host=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev#%E6%9C%AA%E7%9F%A5118

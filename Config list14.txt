@@ -1,3 +1,4 @@
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@151.101.2.49:80?type=ws&host=Join--E-L-i-V-2-R-A-Y.net&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20#🔒 VL-WS-NA 🇺🇸 US-151.101.2.49:80
 vless://89f3d070-f727-46d3-995e-3f8c6bd59558@104.21.10.89:443?security=tls&sni=TESTaLi.mEHDiAMA279.WOrKErs.Dev&type=ws&host=testali.mehdiama279.workers.dev&path=%2F9fL9nkMsx6315cc9%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.10.89:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.19.232:80?security=none&type=ws&host=redw.pooriam.ir&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#🔒 VL-WS-NONE 🇯🇵 JP-156.238.19.232:80
 vless://e2d6455c-9846-4502-8394-16b8c1c07b68@172.66.47.25:443?security=tls&sni=GrOupYOUNeS.PAGes.DEV&type=ws&host=GrOupYOUNeS.PAGes.DEV&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.25:443
@@ -497,4 +498,3 @@ vless://c1b972a3-9da3-5051-8dee-88e160001da1@104.25.2.60:443?security=tls&sni=ni
 vless://49531eb9-e547-43bf-b34a-992d21c05280@162.159.44.187:443?security=tls&sni=setup10.pages.dev&type=ws&host=setup10.pages.dev&path=%2Fsetup10.pages.dev%2F%3Fed%3D2560&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.44.187:443
 vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@185.170.166.242:8880?security=none&type=ws&host=photographipictureai.ir#🔒 VL-WS-NONE 🇬🇧 GB-185.170.166.242:8880
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.189:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.189:80
-vless://001f45a9-6d8b-40c8-f478-e967acaad3a1@138.199.216.129:2053?security=none&type=ws&path=%2Ftelegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY%3Fed%3D2560#🔒 VL-WS-NONE 🇩🇪 DE-138.199.216.129:2053
