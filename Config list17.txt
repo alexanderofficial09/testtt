@@ -1,3 +1,5 @@
+vless://34842069-dcb9-4595-bd60-20b0562c56e5@172.64.32.217:2087?security=tls&sni=us-190.memories-00.space&type=xhttp&path=/api/v1&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-XHTTP-TLS 🏴‍☠️ NA-172.64.32.217:2087
+vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.121:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.121:80
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.134:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.134:8880
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.141:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.141:80
 vless://4cfed9ee-71db-429b-b18d-f9f3dbd11bad@162.159.192.150:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.192.150:443
@@ -496,5 +498,3 @@ vless://a65eeff9-e5a5-45fb-a142-2210d98bcffd@162.159.134.234:443?security=tls&sn
 vless://a2c96a8e-0dec-49f3-945b-efb6353c11e8@23.227.39.179:2096?security=tls&sni=n2vpn.projectis.ir&type=ws&host=n2vpn.projectis.ir&path=/@n2vpn&fp=chrome#🔒 VL-WS-TLS 🇨🇦 CA-23.227.39.179:2096
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.245:80?security=none&type=ws&host=gozargah.validbv7996.ir&path=%2FTelegram%40ShadowProxy66#🔒 VL-WS-NONE 🇳🇱 NL-45.131.4.245:80
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.205:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.205:80
-vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.139:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.139:80
-vless://8cf9775f-db75-4f3e-c7ff-5c21645385ba@104.21.96.1:2095?type=httpupgrade&host=speeDxpnte.socksChangeRt.ir.&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NA 🏴‍☠️ NA-104.21.96.1:2095

@@ -1,3 +1,5 @@
+vless://25d5ece5-8952-4529-98fa-30b09bacd307@172.67.214.110:2053?security=tls&sni=Ter.Iranasanejesh.org&type=grpc&serviceName=@Catvpns@Catvpns@Catvpns@Catvpns@Catvpns@Catvpns@Catvpns@Catvpns#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.214.110:2053
+vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.114:80?type=ws&host=gozargah.validbv7996.ir&path=Telegram%40WangCai2%2F%3Fed%3D2560#🔒 VL-WS-NA 🇳🇱 NL-45.131.4.114:80
 vless://157448af-8ecf-4075-a9e9-b23a6a94899b@95.173.205.70:8443?security=tls&sni=osl-no-01.fromblancwithlove.com&type=tcp&alpn=h2#🔒 VL-TCP-TLS 🇳🇴 NO-95.173.205.70:8443
 vless://03ae39fd-ec71-4db5-b234-94de99a6e514@188.114.99.176:443?security=tls&sni=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&type=ws&host=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.99.176:443
 vless://103104c5-a3f5-4c48-8d8f-a72a56959799@104.17.11.155:443?security=tls&sni=ZYZzZoAO.PuTATa.EU.org&type=ws&host=zyzzzoao.putata.eu.org&path=%2FeR9eo6sq6TUid1Fe%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.11.155:443
@@ -496,5 +498,3 @@ vless://55520747-311e-4015-83ce-be46e2060ce3@141.148.203.6:443?security=tls&sni=
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.131.209.215:80?sni=abaaba.9pcvkb68.workers.dev&type=ws&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇳🇱 NL-45.131.209.215:80
 vless://5335d16e-7e42-4c9b-93a3-9e83bfd3073d@172.67.168.60:80?security=none&type=ws&host=workerr.johnstoner.workers.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.168.60:80
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@173.245.59.128:443?security=tls&sni=edccq.aimercc.filegear-sg.me&type=ws&host=edccq.aimercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.59.128:443
-vless://c40bb8e1-3fce-4f4e-b8c3-008a8f4427cb@151.101.63.8:80?security=none&type=ws&host=vistapcit.com&path=/@vistav2ray---@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vist#🔒 VL-WS-NONE 🇺🇸 US-151.101.63.8:80
-vless://f47fb03f-7f15-41e0-bd7e-2371dc710e32@45.131.6.6:8080?sni=c00021he.ab7db0ab17.workers.dev&type=ws&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇳🇱 NL-45.131.6.6:8080
