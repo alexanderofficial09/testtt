@@ -1,3 +1,6 @@
+trojan://amclubs2024@154.83.2.200:443?security=tls&sni=tr.amclub.us.kg&type=ws&host=tr.amclub.us.kg&path=%2F%3Fed%3D2560&fp=randomized#🔒 TR-WS-TLS 🇵🇭 PH-154.83.2.200:443
+trojan://Aimer@129.226.150.167:443?sni=agepq.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇸🇬 SG-129.226.150.167:443
+trojan://261ccd4c-425d-43a2-bf2a-59c3d1f02e94@5.83.221.31:30006?security=tls&sni=v2hgc02.fuqiangren.com#🔒 TR-TCP-TLS 🇭🇰 HK-5.83.221.31:30006
 trojan://Aimer@172.64.35.236:443?sni=agepy.aimercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-172.64.35.236:443
 trojan://Aimer@154.17.227.138:587?security=tls&sni=ageph.ambercc.filegear-sg.me&type=ws&host=ageph.ambercc.filegear-sg.mehttp%2F1.1&path=%2F#🔒 TR-WS-TLS 🇺🇸 US-154.17.227.138:587
 trojan://6d0a7f2f-c26c-466a-8f90-d6630ba97928@64.23.162.126:443?security=tls&sni=829D7BDE-64B9-E759-C661-78BC73E582A0.1c2871ba-6025-61e2-e87f-a5c9e0ac8c1d.9d8f269f96b25232-759cbb36d6548597.kaufen#🔒 TR-TCP-TLS 🇺🇸 US-64.23.162.126:443
@@ -495,6 +498,3 @@ ss://YWVzLTI1Ni1nY206QjFGSkoxUTZFVDcyOExORg==@92.118.205.219:20037#🔒 SS-TCP-N
 ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA==@80.92.204.106:9027#🔒 SS-TCP-NA 🇩🇪 DE-80.92.204.106:9027
 ss://YWVzLTI1Ni1nY206NE9BS0o4Q0FTRVJBV1hJMQ==@156.231.104.23:18013#🔒 SS-TCP-NA 🇯🇵 JP-156.231.104.23:18013
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.162:8080#🔒 SS-TCP-NA 🇳🇱 NL-193.29.139.162:8080
-ss://YWVzLTEyOC1nY206OWRjY2ZmMjItMzA5ZS00OTBlLWJmNTUtNWNlZjU5OGU2NDA4@173.234.79.117:45615#🔒 SS-TCP-NA 🇬🇧 GB-173.234.79.117:45615
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@5.44.249.42:2377#🔒 SS-TCP-NA 🇸🇬 SG-5.44.249.42:2377
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@172.99.190.149:443#🔒 SS-TCP-NA 🇬🇧 GB-172.99.190.149:443

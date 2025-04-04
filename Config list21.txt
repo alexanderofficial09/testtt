@@ -1,3 +1,6 @@
+trojan://d041d96a-09a5-405f-ba3d-f56e3b444fb9@45.146.232.171:43583?security=tls&sni=q08m.vgraxiw73s.hasyaf.cn#🔒 TR-TCP-TLS 🇭🇰 HK-45.146.232.171:43583
+trojan://Aimer@154.211.8.240:443?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=ws&host=ngepx.ambercc.filegear-sg.me#🔒 TR-WS-TLS 🇺🇸 US-154.211.8.240:443
+trojan://bpb-trojan@108.165.216.155:443?security=tls&sni=bpb.my79801.com&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-108.165.216.155:443
 trojan://7505bf2d-9d04-46a3-b91e-d1115c5dcba8@154.64.246.217:13780?security=tls&sni=b-hk.lihuayun.click&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇭🇰 HK-154.64.246.217:13780
 trojan://Aimer@172.64.35.199:443?sni=ngepo.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-172.64.35.199:443
 trojan://Aimer@162.159.44.82:443?sni=agepn.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.44.82:443
@@ -495,6 +498,3 @@ trojan://vs6f8hvt@172.66.47.179:443?security=tls&sni=trojan.cchappy.eu.org&type=
 trojan://fsoOufuTGmSKzRDaAwAbww@178.63.244.9:443?security=none&type=tcp#🔒 TR-TCP-NONE 🇩🇪 DE-178.63.244.9:443
 trojan://e3c41c94-097d-475e-8de5-d983d8df7cf1@45.146.232.173:22271?security=tls&sni=q08m.vgraxiw73s.hasyaf.cn&type=tcp#🔒 TR-TCP-TLS 🇭🇰 HK-45.146.232.173:22271
 trojan://blue2024@172.67.135.57:443?security=tls&sni=ta.promote.icu&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-172.67.135.57:443
-trojan://amclubs2024@154.83.2.200:443?security=tls&sni=tr.amclub.us.kg&type=ws&host=tr.amclub.us.kg&path=%2F%3Fed%3D2560&fp=randomized#🔒 TR-WS-TLS 🇵🇭 PH-154.83.2.200:443
-trojan://Aimer@129.226.150.167:443?sni=agepq.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇸🇬 SG-129.226.150.167:443
-trojan://261ccd4c-425d-43a2-bf2a-59c3d1f02e94@5.83.221.31:30006?security=tls&sni=v2hgc02.fuqiangren.com#🔒 TR-TCP-TLS 🇭🇰 HK-5.83.221.31:30006
