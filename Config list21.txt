@@ -1,3 +1,4 @@
+trojan://3747000103274291200@95.85.93.45:443?sni=simple-coyote.adder289.quest&type=tcp&host=simple-coyote.adder289.quest&allowInsecure=1#🔒 TR-TCP-NA 🇺🇸 US-95.85.93.45:443
 trojan://Aimer@45.134.21.8:2053?security=tls&sni=agepq.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇳🇱 NL-45.134.21.8:2053
 trojan://Aimer@172.64.35.227:443?sni=agepn.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-172.64.35.227:443
 trojan://Aimer@199.34.228.178:8443?sni=agepy.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇺🇸 US-199.34.228.178:8443
@@ -497,4 +498,3 @@ trojan://Aimer@172.67.157.40:2096?sni=agepu.ambercc.filegear-sg.me#🔒 TR-TCP-N
 trojan://c378f9c9-733c-4a28-af47-cfa8b063a7f6@167.99.35.214:443?security=tls&sni=nl2-full.privateip.net&type=tcp#🔒 TR-TCP-TLS 🇳🇱 NL-167.99.35.214:443
 trojan://4d048fc6-d944-41dd-b327-10856adcc82d@199.59.243.228:443?security=tls&sni=zi.you.usdtvfk.top#🔒 TR-TCP-TLS 🇺🇸 US-199.59.243.228:443
 trojan://8e09a4d7-80fc-4bb3-b3fb-1eb23211756a@104.21.64.1:2096?security=tls&sni=TaBNak.TWn24.ir&type=ws&host=tabnak.twn24.ir&path=%2FvNF7RJtVepEuGq7R6Cczl&fp=chrome&alpn=h2#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.64.1:2096
-trojan://a8fce442-ae9a-4cc1-a0cc-20308ff0a0db@104.21.96.1:443?security=tls&sni=1g.890699.xyZ&type=ws&host=1g.890699.xyz&path=%2FlXENb74xF4ylXngZ&fp=chrome&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.96.1:443

@@ -1,3 +1,4 @@
+vless://94d04e32-bc77-4eea-b57c-29ef4b7ef4b0@118.42.188.118:37322?security=tls&sni=agedy.ambercc.filegear-sg.me&type=ws&path=/?ed#🔒 VL-WS-TLS 🇰🇷 KR-118.42.188.118:37322
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.19.86:80?sni=redw.pooriam.ir&type=ws&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇯🇵 JP-156.238.19.86:80
 vless://83f4ed87-5257-4ee3-afcf-d1d213d75647@85.239.60.43:443?security=tls&flow=xtls-rprx-vision&sni=lon5.vpntype.dev&type=tcp&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-TCP-TLS 🇬🇧 GB-85.239.60.43:443
 vless://bb29c155-d55e-4c07-8403-0581e384f7a2@194.152.44.152:2087?security=tls&sni=a19.bewface-smart.rest&type=grpc#🔒 VL-GRPC-TLS 🇳🇱 NL-194.152.44.152:2087
@@ -497,4 +498,3 @@ vless://3d2253b5-7365-4e1a-bd39-18dd2cf4b9c4@108.162.195.205:8080?security=none&
 vless://07865379-86dd-4ca6-ad22-81255519c482@104.26.0.117:2083?security=tls&sni=vipv2rey.mamare.ir&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.26.0.117:2083
 vless://4c56316a-6fa0-4f1e-8f97-9f0ce56c1f9e@188.114.97.194:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.194:443
 vless://1fed1d91-d9c6-4388-c5ff-a1b20cb5cba9@172.67.161.74:2053?security=tls&sni=support.sabapardaziran.ir&type=ws&host=support.sabapardaziran.ir&path=%2F%F0%9F%86%94%40M3HDIO1&fp=chrome&alpn=h2%2Chttp%2F1.1%2Ch3#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.161.74:2053
-vless://5a5d9654-2f1e-4537-b3ca-e76168b2e03f@104.21.76.15:443?security=tls&sni=wlma.jeremaih-talik.workers.dev&type=ws&host=wlma.jeremaih-talik.workers.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.76.15:443

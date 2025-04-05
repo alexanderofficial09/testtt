@@ -1,3 +1,4 @@
+vless://5a5d9654-2f1e-4537-b3ca-e76168b2e03f@104.21.76.15:443?security=tls&sni=wlma.jeremaih-talik.workers.dev&type=ws&host=wlma.jeremaih-talik.workers.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.76.15:443
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.126:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.126:80
 vless://dfb6f849-e7d7-4994-80f7-1bd19b593a2a@172.66.168.199:443?security=tls&sni=Uk-FuLl.pRIvAteiP.nET&type=ws&host=Uk-FuLl.pRIvAteiP.nET&path=/VLESS#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.168.199:443
 vless://ad8aa9eb-7120-4953-a877-e7206f5a7c3c@188.114.99.99:2096?security=tls&sni=tarasvalete.parhamtraberthos.IR.&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-188.114.99.99:2096
@@ -497,4 +498,3 @@ trojan://Aimer@167.68.4.7:2053?sni=agepj.ambercc.filegear-sg.me&allowInsecure=0#
 trojan://Aimer@175.214.237.120:50000?security=tls&sni=agepy.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇰🇷 KR-175.214.237.120:50000
 trojan://d041d96a-09a5-405f-ba3d-f56e3b444fb9@45.146.232.171:43383?security=tls&sni=q08m.vgraxiw73s.hasyaf.cn#🔒 TR-TCP-TLS 🇭🇰 HK-45.146.232.171:43383
 trojan://123456@104.25.97.27:8443?security=tls&sni=top-azx.pages.dev&type=ws&host=top-azx.pages.dev&path=%2FAz1.vpn.33.TOP%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-104.25.97.27:8443
-trojan://3747000103274291200@95.85.93.45:443?sni=simple-coyote.adder289.quest&type=tcp&host=simple-coyote.adder289.quest&allowInsecure=1#🔒 TR-TCP-NA 🇺🇸 US-95.85.93.45:443
