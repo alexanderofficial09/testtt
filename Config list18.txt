@@ -1,4 +1,3 @@
-vless://e9fbba11-6b40-4ec9-ada8-f7cdc14a5126@57.129.43.114:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇩🇪 DE-57.129.43.114:8880
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.40.154.139:2053?security=tls&sni=CdCyRiRd73.gOzAlBaLaBiYa-bEbInAm.cOm&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-45.40.154.139:2053
 vless://fa659470-ca91-43c1-a966-2349531fb6a8@104.21.93.179:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.93.179:443
 vless://d4e672e0-bc04-45c1-b710-df097fa41d23@104.16.183.83:80?security=none&type=ws&host=jolly-fog-9e08-ppal03.revog68198.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.183.83:80
@@ -498,3 +497,4 @@ vless://4c9541c7-5fa1-403c-84af-175e3b25a27f@172.67.207.26:8080?security=none&ty
 vless://a65eeff9-e5a5-45fb-a142-2210d98bcffd@162.159.135.234:443?security=tls&sni=hk3.servervless.de&type=ws&host=hk3.servervless.de&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.135.234:443
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@108.162.195.202:443?security=tls&sni=in.youlingkais.filegear-sg.me&type=ws&host=in.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.195.202:443
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.64.35.148:443?security=tls&sni=in.youlingkais.filegear-sg.me&type=ws&host=in.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.35.148:443
+vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.5.151:80?type=ws&host=gozargah.validbv7996.ir&path=/Telegram🇨🇳@WangCai2#🔒 VL-WS-NA 🇳🇱 NL-45.131.5.151:80
