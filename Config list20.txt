@@ -1,3 +1,5 @@
+vless://468d811a-8540-4517-9779-0f542b5150d2@104.24.7.232:80?sni=mute-wood-561e-ppal.megiva7664.workers.dev&type=ws&path=%2FProxyIP#🔒 VL-WS-NA 🏴‍☠️ NA-104.24.7.232:80
+vless://00ae2be4-ad8c-4650-a543-569a5d2431a7@82.118.19.162:8443?security=none&type=grpc&serviceName=vless9090#🔒 VL-GRPC-NONE 🇩🇪 DE-82.118.19.162:8443
 vless://c7d543af-1023-4b96-a698-187c190d3f4c@104.22.56.77:443?security=tls&sni=nautica.foolvpn.me&type=ws&host=nautica.foolvpn.me&path=%2F47.89.39.186-39251#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.56.77:443
 vless://6f995056-7802-4a1d-bff7-61678e626c3f@20.42.228.160:443?security=tls&sni=sdfee4.azurewebsites.net&type=ws&host=sdfee4.azurewebsites.net&path=%2Ffp%3Dchromesecurity%3Dtls&alpn=http%2F1.1#🔒 VL-WS-TLS 🇦🇺 AU-20.42.228.160:443
 vless://2c699fc7-cc37-4ca3-a7fe-c7ab9355a248@141.147.33.180:443?security=tls&flow=xtls-rprx-vision&sni=767w1-85dc0-9yjd.xn--4gq62f52gppi29k.com&type=tcp&fp=safari#🔒 VL-TCP-TLS 🇩🇪 DE-141.147.33.180:443
@@ -496,5 +498,3 @@ trojan://bpb-trojan@198.202.211.146:443?security=tls&sni=bpb.my79801.com&type=tc
 trojan://Aimer@5.182.84.22:2096?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇷🇺 RU-5.182.84.22:2096
 trojan://Aimer@199.34.228.164:2087?sni=agepj.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🇺🇸 US-199.34.228.164:2087
 trojan://SSorg@77.232.140.7:443?security=tls&sni=ssjj.esslh.filegear-sg.me&type=ws&host=ssjj.esslh.filegear-sg.mehttp/1.1&path=/?ed#🔒 TR-WS-TLS 🇷🇺 RU-77.232.140.7:443
-trojan://af4d2493-9156-4514-9f6b-ee5d1a1e4713@15.197.162.184:443?security=tls&sni=download2hkt.windowsupdate.lol&allowInsecure=1#🔒 TR-TCP-TLS 🇺🇸 US-15.197.162.184:443
-trojan://a8fce442-ae9a-4cc1-a0cc-20308ff0a0db@104.21.80.1:443?security=tls&sni=1g.890699.xyZ&type=ws&host=1g.890699.xyz&path=%2FlXENb74xF4ylXngZ&fp=chrome&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.80.1:443
