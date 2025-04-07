@@ -1,39 +1,3 @@
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.254:80?sni=&type=ws&host=gozargah.validbv7996.ir&path=Telegram🇨🇳@WangCai2/?ed=2560flow=-udp443&fp=#2%7C%F0%9F%87%BA%F0%9F%87%B819%20%7C%20%205.1MB/s
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@www.hugedomains.com:443?allowInsecure=1&sni=zx.ylka.dpdns.org&type=ws&host=zx.ylka.dpdns.org&path=/?ed=2560security=tls#2%7C%F0%9F%87%B0%F0%9F%87%B73%20%7C%20%203.6MB/s
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@www.digitalocean.com:443?allowInsecure=1&sni=zx.ylka.dpdns.org&type=ws&host=zx.ylka.dpdns.org&path=/?ed=2560security=tls#2%2C14%7CUS_speednode_0082
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@bsuqian01.dynu.net:42426?sni=gateway.icloud.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%7C%F0%9F%87%A6%F0%9F%87%BA5%20%7C%20%202.8MB/s
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@test123.zlqhdns.top:24318?sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%7C%F0%9F%87%AD%F0%9F%87%B07%20%7C%20%206.1MB/s
-hysteria2://be8ba532-0dcf-11f0-9a65-f23c9164ca5d@8b21ebfd-suif40-tcvn0z-1tlyg.hy2.gotochinatown.net:8443?insecure=0&sni=8b21ebfd-suif40-tcvn0z-1tlyg.hy2.gotochinatown.net#2%7C%F0%9F%87%BA%F0%9F%87%B820%20%7C%20%205.2MB/s
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@bsuqian01.dynu.net:17930?sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%7C%F0%9F%8C%808-RO%20%7C%20%202.5MB/s
-vless://003ab005-1b05-4311-a23b-c0d898c264ca@tv2rayrr.set7.site:34311?sni=&flow=-udp443&fp=#2%7C%F0%9F%87%A9%F0%9F%87%AA5%20%7C%20%203.6MB/s
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@zhee01.dynu.net:15700?sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%7C%F0%9F%87%B9%F0%9F%87%BC3%20%7C%20%202.4MB/s
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.73:80?type=ws&host=gozargah.validbv7996.ir&path=/MOSiV2--MOSiV2--MOSiV2--MOSiV2--MOSiV2--MOSiV2?ed=2560#2%7C%F0%9F%87%B0%F0%9F%87%B74%20%7C%20%204.5MB/s
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.178:80?type=ws&host=gozargah.validbv7996.ir&path=/Telegram🇨🇳 @MxlShare@WangCai2#2%7C%F0%9F%87%AE%F0%9F%87%B32%20%7C%20%205.8MB/s
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@bsuqian01.dynu.net:25768?sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%7C%F0%9F%87%AF%F0%9F%87%B54%20%7C%20%201.6MB/s
-hysteria2://dongtaiwang.com@46.29.163.171:35751?insecure=1&sni=www.bing.com#2%7C%F0%9F%87%B7%F0%9F%87%BA3%20%7C%20%201.6MB/s
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.33:8080?sni=&type=ws&host=gozargah.validbv7996.ir&path=/flow=-udp443&fp=#2%7C%F0%9F%87%AF%F0%9F%87%B55%20%7C%20%204.1MB/s
-vless://150a4f27-f855-433e-8c97-388b94a1d749@elena.netmxspeedtest.net:2095?allowInsecure=1&sni=vPncustomize.www.webdade.com.www.speedtest.net.irna.ir.ips.ddns-ip.net.&type=ws&host=vPncustomize.www.webdade.com.www.speedtest.net.irna.ir.ips.ddns-ip.net.&path=/Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY?ed=2560#2%2C14%7CNL_speednode_0024
-trojan://b19c4375-d847-4c40-9824-4767c88b5f38@www.hk-jd.top:10021?allowInsecure=1&sni=www.hk-jd.top#2%2C14%7CIN_speednode_0009
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.113:80?allowInsecure=1&sni=gozargah.validbv7996.ir&type=ws&host=gozargah.validbv7996.ir&path=/Telegram🇨🇳@WangCai2/?ed=2560#2%2C14%7CNL_speednode_0039
-vless://50c32afb-ee63-443c-ad0a-a3f4866e4106@23.227.38.0:443?sni=us5.pqvip.top&type=ws&host=us5.pqvip.top&path=/pq/us5flow=-udp443&fp=chrome&security=tls#2%7C%F0%9F%87%BA%F0%9F%87%B822%20%7C%20%205.6MB/s
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.73:8080?type=ws&host=gozargah.validbv7996.ir&path=/#2%7C%F0%9F%87%AB%F0%9F%87%AE2%20%7C%20%203.7MB/s
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.5.27:80?allowInsecure=1&sni=gozargah.validbv7996.ir&type=ws&host=gozargah.validbv7996.ir&path=/Telegram🇨🇳@WangCai2flow=-udp443&fp=#2%2C14%7CNL_speednode_0057
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.126:80?type=ws&host=gozargah.validbv7996.ir&path=Telegram🇨🇳@WangCai2/?ed#2%7C%F0%9F%87%AC%F0%9F%87%A74%20%7C%20%201.9MB/s
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.200:80?allowInsecure=1&sni=gozargah.validbv7996.ir&type=ws&host=gozargah.validbv7996.ir&path=/Telegram🇨🇳@WangCai2#2%7C%F0%9F%87%BA%F0%9F%87%B823%20%7C%20%203.9MB/s
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@trevor.ns.cloudflare.com:443?allowInsecure=1&sni=zx.ylka.dpdns.org&type=ws&host=zx.ylka.dpdns.org&path=/?ed=2560security=tls#2%7C%F0%9F%87%B0%F0%9F%87%B75%20%7C%20%203.0MB/s
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@csuzhou01.1cooldns.com:32055?sni=www.amazon.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%7C%F0%9F%87%AC%F0%9F%87%A75%20%7C%20%201.4MB/s
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.5.35:80?allowInsecure=1&sni=gozargah.validbv7996.ir&type=ws&host=gozargah.validbv7996.ir&path=/Telegram🇨🇳 @MxlShare@WangCai2/?ed=2560fp=chrome#2%2C14%7CNL_speednode_0014
-vless://d961dd3d-b556-4454-86f7-924eb655b894@104.26.14.16:2096?sni=bEAt.MIRaclETaxbiTS.Top.&type=ws&host=bEAt.MIRaclETaxbiTS.Top.&path=/2096/@VRayyNGvpnflow=-udp443&fp=random&security=tls#2%7C%F0%9F%87%AB%F0%9F%87%AE3%20%7C%20%201.9MB/s
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@bsuqian01.dynu.net:31735?sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%7C%F0%9F%87%AF%F0%9F%87%B56%20%7C%20%203.2MB/s
-hysteria2://cfe032e4-1bc3-454f-9d09-301b0aea08ff@192.18.145.7:45979?insecure=1&sni=www.bing.com#2%7C%F0%9F%87%A8%F0%9F%87%A62%20%7C%20%201.1MB/s
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@shenzhou02.mysynology.net:32193?sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%7C%F0%9F%8C%809-TH%20%7C%20%201.4MB/s
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@104.18.35.30:80?sni=&type=ws&host=gozargah.validbv7996.ir&path=/Telegram@JOKERRVPNJoin\_Bade\_Channel@JOKERRVPNflow=-udp443&fp=#2%7C%F0%9F%87%AF%F0%9F%87%B57%20%7C%20%201.2MB/s
-vless://7c317161-5cf8-4cbc-811a-d1297c41bb23@yapc-1.afshin.ir:443?allowInsecure=1&sni=YAPC-1.afshin.ir&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%2C14%7CCH_speednode_0001
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@www.udemy.com:443?allowInsecure=1&sni=zx.ylka.dpdns.org&type=ws&host=zx.ylka.dpdns.org&path=/?ed=2560security=tls#2%7C%F0%9F%8C%8010-%20%7C%20%205.5MB/s
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@zhee01.dynu.net:27932?sni=www.amazon.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%7C%F0%9F%87%BA%F0%9F%87%B826%20%7C%20%203.9MB/s
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@discord.cloudflare.com:80?sni=&type=ws&host=gozargah.validbv7996.ir&path=Telegram🇨🇳 @WangCai2 /?ed=2560flow=-udp443&fp=#2%7C%F0%9F%87%B0%F0%9F%87%B76%20%7C%20%201.1MB/s
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@ip.sb:443?allowInsecure=1&sni=zx.ylka.dpdns.org&type=ws&host=zx.ylka.dpdns.org&path=/?ed=2560security=tls#2%7C%F0%9F%8C%8011-%20%7C%20%203.1MB/s
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.5.194:80?sni=&type=ws&host=gozargah.validbv7996.ir&path=/Telegram🇨🇳 @WangCai2flow=-udp443&fp=#2%7C%F0%9F%87%BA%F0%9F%87%B827%20%7C%20%204.7MB/s
 vless://eb50d091-51ed-4f89-bc4e-8b04320585d7@141.193.213.21:2096?sni=premium.vkehi.shop&type=ws&host=premium.vkehi.shop&path=%2Fflow=none-udp443&fp=chrome&security=tls#2%7C%F0%9F%87%B8%F0%9F%87%AC2%20%7C%20%205.8MB/s
 vless://f1be85f0-0a86-3840-aa3d-c4301fbfffb7@23.95.190.183:7999?sni=learn.microsoft.com&flow=xtls-rprx-vision-udp443&fp=random&security=tls#2%7C%F0%9F%87%BA%F0%9F%87%B828%20%7C%20%203.3MB/s
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.198:80?type=ws&host=gozargah.validbv7996.ir&path=/Telegram @WangCai2#2%7C%F0%9F%87%BA%F0%9F%87%B829%20%7C%20%205.8MB/s
