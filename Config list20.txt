@@ -1,5 +1,3 @@
-vless://2fec7227-9abe-46f2-af18-78302b836c45@47.254.22.131:443?security=tls&sni=3u.2032.pp.ua&type=ws&path=%2FqF5dXhCllosLcFpqdDoAgkondVWl#🔒 VL-WS-TLS 🇺🇸 US-47.254.22.131:443
-vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.231:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.231:80
 vless://7a737aba-b567-46d1-bcd0-7b37f9b4b876@172.67.73.163:80?security=none&type=ws&host=deteRmINeD-PriOrIty.onEEat.co.&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.73.163:80
 vless://07865379-86dd-4ca6-ad22-81255519c482@104.26.1.117:2083?security=tls&sni=vipv2rey.mamare.ir&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.26.1.117:2083
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.92:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-84.32.131.92:8880
@@ -498,3 +496,5 @@ vless://5abe79f6-57c2-4999-b6a0-bb87a9496a37@172.67.68.242:443?security=tls&sni=
 vless://4aaa5edf-da3c-5c87-adb6-74431bf98ba2@104.17.147.141:2052?security=none&type=ws&host=sPeedtest2.sbs.tr1.vless.sitespeedtest.net&path=%2Fvless%23%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.147.141:2052
 vless://de6f1d99-acc6-4c6b-9820-f3a8922cc736@185.59.218.37:80?type=ws&host=hk1-tg-fxnodes.sfacg.uk&path=%2Ftg%40fxnodes#🔒 VL-WS-NA 🇷🇺 RU-185.59.218.37:80
 vless://2c699fc7-cc37-4ca3-a7fe-c7ab9355a248@158.101.195.118:443?type=tcp#🔒 VL-TCP-NA 🇳🇱 NL-158.101.195.118:443
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.19.86:80?sni=redw.pooriam.ir&type=ws&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇯🇵 JP-156.238.19.86:80
+vless://f366e744-abcd-4b5b-bd5e-2bd97b6443bf@45.131.5.244:2086?security=none&type=ws&host=fva64rbmjfkfznnptk6imz6sihrno35m4csom83admge5tfxniwduyuyt954fdh.ks3om.workers.Dev&path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560#🔒 VL-WS-NONE 🇳🇱 NL-45.131.5.244:2086
