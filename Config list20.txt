@@ -1,3 +1,5 @@
+vless://7ee0cedb-1f06-4be9-8444-51f289a4bf12@172.64.86.167:80?security=none&type=ws&host=morning-sound-6fa2-ppal03.tinemo7285.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.86.167:80
+vless://4cbb71d8-4262-43af-8b4f-e126b794ff8d@162.159.192.245:443?security=tls&sni=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&type=ws&host=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.192.245:443
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@172.64.34.52:2096?security=tls&sni=edccq.aimercc.filegear-sg.me&type=ws&host=edccq.aimercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.34.52:2096
 vless://d961dd3d-b556-4454-86f7-924eb655b894@104.26.14.16:2096?security=tls&sni=bEAt.MIRaclETaxbiTS.Top.&type=ws&host=bEAt.MIRaclETaxbiTS.Top.&path=%2F2096%2F%40VRayyNGvpn&fp=random&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.14.16:2096
 vless://921c3e7a-35b5-4499-aef5-363fd050bb29@160.153.0.164:443?security=tls&sni=s1.digikala-iranian.org&type=grpc#🔒 VL-GRPC-TLS 🇺🇸 US-160.153.0.164:443
@@ -496,5 +498,3 @@ vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@172.64.35.236:443?security=tls&sni=
 vless://c335c896-8893-4282-808d-13c2ddbefa7a@104.18.18.255:443?security=tls&sni=jjp1.jswstlsweb.top&type=ws&host=jjp1.jswstlsweb.top&path=%2Fjsjc%2Fjp1&fp=edge#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.18.255:443
 vless://7fc4f294-053f-490b-a5fd-1bd08d56ec1f@185.79.158.142:8098?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.79.158.142:8098
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.204:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.204:80
-vless://4dbc9705-e9d6-53c5-818d-ea62e57bd784@154.197.121.138:2095?security=none&type=httpupgrade&host=Ge.PcStorEaRsOft.iR.&path=%2Fegram---AR_ore--tem--ar_sre--egram--AR_st_n--tegram--ar_orE_pn--tgram----aR_tre_pN%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🇬🇧 GB-154.197.121.138:2095
-vless://5abe79f6-57c2-4999-b6a0-bb87a9496a37@104.18.5.182:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.5.182:443
