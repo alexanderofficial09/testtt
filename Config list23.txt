@@ -1,7 +1,3 @@
-trojan://NISHIKUITAN111@141.101.122.171:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-141.101.122.171:443
-trojan://ncynDWKB7Um7@172.67.175.40:443?security=tls&sni=isna.farsonline24.ir&type=httpupgrade&host=isna.farsonline24.ir&path=%2F%F0%9F%86%94%40M3HDIO1&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 TR-HTTPUPGRADE-TLS 🏴‍☠️ NA-172.67.175.40:443
-trojan://Aimer@46.254.93.52:8443?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=ws&host=ngepx.ambercc.filegear-sg.me#🔒 TR-WS-TLS 🇷🇺 RU-46.254.93.52:8443
-trojan://Aimer@103.116.7.133:2083?security=tls&sni=agepn.ambercc.filegear-sg.me&type=ws&host=agepn.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&alpn=http%2F1.1#🔒 TR-WS-TLS 🇺🇸 US-103.116.7.133:2083
 trojan://tg-fq521free@45.67.215.95:443?security=tls&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#🔒 TR-WS-TLS 🇷🇺 RU-45.67.215.95:443
 trojan://Aimer@27.50.48.186:2083?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇸🇬 SG-27.50.48.186:2083
 trojan://uV8u9Q41e2@104.18.165.78:443?security=tls&sni=DieGo.DIEgoMAraDOnA.iR.&type=ws&host=DieGo.DIEgoMAraDOnA.iR.&path=%2F&fp=chrome&alpn=h2#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.165.78:443
@@ -498,3 +494,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@104.21.112.1:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.112.1:443
 ss://YWVzLTI1Ni1jZmI6cVlFTjVIWDRKS2VWQ2RFQw==@195.238.126.84:9039#🔒 SS-TCP-NA 🇱🇹 LT-195.238.126.84:9039
 ss://YWVzLTI1Ni1nY206MDg0T1Q0QUtFNDVLTkIxRg==@91.148.135.48:20039#🔒 SS-TCP-NA 🇨🇾 CY-91.148.135.48:20039
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.79:443#🔒 SS-TCP-NA 🇬🇧 GB-212.102.53.79:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@61.216.165.30:2377#🔒 SS-TCP-NA 🇹🇼 TW-61.216.165.30:2377
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@95.174.71.98:2377#🔒 SS-TCP-NA 🇺🇸 US-95.174.71.98:2377
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.166.88.20:8119#🔒 SS-TCP-NA 🇨🇭 CH-23.166.88.20:8119
