@@ -1,3 +1,5 @@
+vless://d6660712-4d18-47fd-b095-0c36db667250@162.159.192.14:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.192.14:443
+vless://55520747-311e-4015-83ce-be46e2060ce3@185.133.35.99:443?security=tls&sni=re.vs2024.us.kg&type=ws&path=%2F%3Fed&fp=chrome#🔒 VL-WS-TLS 🇧🇷 BR-185.133.35.99:443
 vless://e1d98310-db5a-4279-bbf7-760902b4af0b@104.22.59.100:443?security=tls&sni=2576.papala.filegear-sg.me&type=ws&host=2576.papala.filegear-sg.me&path=%2F%3Fed%3D2560&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.59.100:443
 vless://18d8ce6f-a27c-461e-ada8-a7d0a97a023b@104.19.48.236:443?security=tls&sni=ad.oldcloud.online&type=ws&host=ad.oldcloud.online&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.48.236:443
 vless://fb0fdedc-44f4-455b-ba5d-72bf914f6be3@172.67.141.68:2053?security=tls&sni=esna.itn24.ir&type=ws&host=esna.itn24.ir&path=%2F%F0%9F%86%94%40M3HDIO1&fp=random&alpn=h2%2Chttp%2F1.1%2Ch3#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.141.68:2053
@@ -496,5 +498,3 @@ vless://6d898085-bf6a-449b-9763-0073d4dc2ce0@172.67.133.248:443?security=tls&sni
 vless://fa659470-ca91-43c1-a966-2349531fb6a8@104.21.234.59:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.234.59:443
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.32:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇳🇱 NL-88.216.187.32:8880
 vless://e794da45-0d8d-4b7a-9ae9-b0b84528b360@172.67.128.212:443?security=tls&sni=hexaprop.dirih76753.workers.dev&type=ws&host=hexaprop.dirih76753.workers.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.128.212:443
-vless://80ebecda-dc08-4a75-b2b0-b31868ebc6bb@216.239.34.21:443?security=tls&sni=gcdn.freenet-rd.xyz&type=ws&host=gcdn.freenet-rd.xyz&path=%2Fms138%2F#🔒 VL-WS-TLS 🇺🇸 US-216.239.34.21:443
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.64.35.159:443?security=tls&sni=il.ylkszy.eu.org&type=ws&host=il.ylkszy.eu.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.35.159:443
