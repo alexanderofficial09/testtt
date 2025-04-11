@@ -1,3 +1,7 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyM3NVcndSY1RCRUF2eExTNlZNNkFheTU3S1Fid3MxdXBEQXhyN0J0ZjRoWHU0Z2FVUVc0QlBiQ29takpqU3RNMkpxSkxEd1ZrdGVYTDhWMzNrOGVXa1pSNFVCOGludHo3@107.181.151.147:43669#🔒 SS-TCP-NA 🇬🇧 GB-107.181.151.147:43669
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@35.72.184.29:2377#🔒 SS-TCP-NA 🇯🇵 JP-35.72.184.29:2377
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@60.249.35.38:2377#🔒 SS-TCP-NA 🇹🇼 TW-60.249.35.38:2377
+ss://YWVzLTI1Ni1jZmI6YUxwUXRmRVplNDQ1UXlIaw==@80.92.204.106:9098#🔒 SS-TCP-NA 🇩🇪 DE-80.92.204.106:9098
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.66:8080#🔒 SS-TCP-NA 🇫🇷 FR-45.158.171.66:8080
 ss://YWVzLTI1Ni1nY206WTBUSUxKMzk5UTI3ME9aMA==@37.143.128.125:20012#🔒 SS-TCP-NA 🇨🇱 CL-37.143.128.125:20012
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#🔒 SS-TCP-NA 🇺🇸 US-64.74.163.130:990
@@ -494,7 +498,3 @@ vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@bsuqian01.dynu.net:40581?allowInsec
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@175.211.154.200:10041?allowInsecure=1&sni=edccr.ambercc.filegear-sg.me&type=ws&host=edccr.ambercc.filegear-sg.me&path=/?ed=2560&proxyip=ts.hpc.twsecurity=tls#2%7C%F0%9F%87%B9%F0%9F%87%BC11%20%7C%20%206.7MB/s
 vless://5627861d-2607-4423-c3b6-b3bfc9b95a9a@91.134.88.205:443?sni=france.linceed.se&flow=-udp443&fp=safari&security=tls#2%7C%F0%9F%87%AB%F0%9F%87%B71%20%7C%20%205.7MB/s
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@130.250.137.63:2083?sni=edccr.aimercc.filegear-sg.me&type=ws&host=edccr.aimercc.filegear-sg.me&path=/?ed=2560flow=-udp443flow=-udp443flow=-udp443&fp=&security=tls#2%7C%F0%9F%87%B9%F0%9F%87%BC12%20%7C%20%203.4MB/s
-vless://b72ba5d5-2d5e-45b7-93b5-236d343baa7c@164.152.19.229:30158?allowInsecure=0&sni=www.yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%2C14%7CUS_speednode_0089
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@shenzhou02.mysynology.net:40430?sni=www.yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%7C%F0%9F%87%BA%F0%9F%87%B87%20%7C%20%205.0MB/s
-vless://f6c96581-cad4-5749-b02d-742cd0870c44@Www.speedtest.net:2052?sni=&type=ws&host=sPeedtest2.sbs.za.v2vless.sitespeedtest.net&path=/vless#@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIALflow=-udp443&fp=#2%7C%F0%9F%87%BA%F0%9F%87%B88%20%7C%20%205.6MB/s
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@211.217.223.187:50000?allowInsecure=1&sni=edccr.ambercc.filegear-sg.me&type=ws&path=/?ed=2560&proxyip=ts.hpc.twsecurity=tls#2%7C%F0%9F%87%B9%F0%9F%87%BC13%20%7C%20%202.4MB/s
