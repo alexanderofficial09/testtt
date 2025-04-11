@@ -1,3 +1,6 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
 </head><body>
 <h1>Not Found</h1>
 <p>The requested URL was not found on this server.</p>
@@ -495,6 +498,3 @@ trojan://Aimer@154.211.8.155:443?allowInsecure=0&sni=epccr.ambercc.filegear-sg.m
 trojan://Aimer@188.164.159.246:2096?allowInsecure=0&sni=epcct.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E4%BA%9A%E7%BE%8E%E5%B0%BC%E4%BA%9A
 trojan://Aimer@31.43.179.27:443?allowInsecure=0&sni=epcct.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%A6%20_%E4%B9%8C%E5%85%8B%E5%85%B0
 trojan://Aimer@169.212.163.53:10036?allowInsecure=0&sni=epcct.ambercc.filegear-sg.me#%F0%9F%87%B0%F0%9F%87%B7%20_%E9%9F%A9%E5%9B%BD
-trojan://Aimer@65.75.194.43:10511?allowInsecure=0&sni=epccy.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
-trojan://Aimer@220.122.114.61:35622?allowInsecure=0&sni=epcct.ambercc.filegear-sg.me#%F0%9F%87%B0%F0%9F%87%B7%20_%E9%9F%A9%E5%9B%BD
-trojan://Aimer@47.76.212.242:8832?allowInsecure=0&sni=epcct.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD

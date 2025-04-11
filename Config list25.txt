@@ -1,3 +1,6 @@
+ss://YWVzLTI1Ni1jZmI6dWVMWFZrdmg0aGNraEVyUQ==@217.30.10.18:9060#🔒 SS-TCP-NA 🇵🇱 PL-217.30.10.18:9060
+ss://YWVzLTI1Ni1nY206UEdGMlRHVUNIUUJDNUlQNQ==@156.231.104.26:18016#🔒 SS-TCP-NA 🇯🇵 JP-156.231.104.26:18016
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@167.88.62.68:443#🔒 SS-TCP-NA 🇺🇸 US-167.88.62.68:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMGZhM2E5Yi0yMTE1LTRjYzAtYThmNS03ZjRmN2NhZjZlYzE=@85.90.207.153:8080#🔒 SS-TCP-NA 🇦🇲 AM-85.90.207.153:8080
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#🔒 SS-TCP-NA 🇯🇵 JP-149.22.87.204:443
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.223.20.79:989#🔒 SS-TCP-NA 🇹🇼 TW-154.223.20.79:989
@@ -495,6 +498,3 @@ vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@27.50.49.61:2096?allowInsecure=1&sn
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMnzwn4e68J+HuDEwIHwgIDQuNU1CL3MiLCAiYWRkIjogIjQ0NjZmNzIyLXN1bTRnMC1zemJhdTItMmQ5di5jdS5wbGViYWkubmV0IiwgInBvcnQiOiA1MjI5LCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiNTU0ZDAxMTAtY2U2NC0xMWVmLTk3M2EtZjIzYzkxM2M4ZDJiIn0=
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@160.79.105.133:8443?allowInsecure=1&sni=edccy.ambercc.filegear-sg.me&type=ws&path=/?ed=2560&proxyip=ts.hpc.twsecurity=tls#2%7C%F0%9F%87%B9%F0%9F%87%BC23%20%7C%20%202.8MB/s
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@27.50.49.230:8443?allowInsecure=0&sni=edccy.ambercc.filegear-sg.me&type=ws&host=edccy.ambercc.filegear-sg.me&path=/?ed=2560security=tls#2%2C14%7CSG_speednode_0063
-vless://b72ba5d5-2d5e-45b7-93b5-236d343baa7c@164.152.19.229:30158?allowInsecure=0&sni=www.yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%2C14%7CUS_speednode_0089
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMnzwn4e68J+HuDEyIHwgIDIuOE1CL3MiLCAiYWRkIjogIjQwNWI3ZDMyLXN1azlzMC10Y21kdHMtMW1tdTYuY3UucGxlYmFpLm5ldCIsICJwb3J0IjogNTIyOSwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjJlZThmODMwLTA5ZTItMTFmMC05MGUyLWYyM2M5MTNjOGQyYiJ9
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@121.140.60.17:10046?allowInsecure=1&sni=edccy.ambercc.filegear-sg.me&type=ws&host=edccy.ambercc.filegear-sg.me&path=/?ed=2560&proxyip=ts.hpc.twsecurity=tls#2%7C%F0%9F%87%B9%F0%9F%87%BC16%20%7C%20%201.2MB/s
