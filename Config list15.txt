@@ -1,3 +1,4 @@
+vless://f70ba59e-487f-4af8-8188-69b40bbdb071@178.23.190.216:4434?security=reality&flow=xtls-rprx-vision&sni=teamdocs.su&type=tcp&fp=chrome&pbk=jRReXVS85X0Qm7jovHgNSOyz7BuS7p3iMPE4EfUHRlk&sid=1ae2fd1e1ace9935#🔒 VL-TCP-RLT 🇳🇱 NL-178.23.190.216:4434
 vless://b1c801ec-1c5e-4d12-8b53-8da11c64a21b@82.115.4.168:443?security=reality&flow=xtls-rprx-vision&sni=video.intfreed.ru&type=tcp&fp=chrome&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&sid=7755e972daf8eec8#🔒 VL-TCP-RLT 🇳🇱 NL-82.115.4.168:443
 vless://aca8fdbd-b4c2-45d1-8b52-e69b045d557f@84.234.31.217:3662?security=reality&sni=icloud.com&type=tcp&fp=chrome&pbk=f8TgqVBYK3tmhip3lJ-r8D0i6fqEF1Zy-zAfEhS-Cl8&sid=67a1a8bb9ff0ed21#🔒 VL-TCP-RLT 🇨🇭 CH-84.234.31.217:3662
 vless://dcf57272-8e8d-4287-9f72-7a1589fcdbbc@51.89.119.99:11045?security=reality&sni=yahoo.com&type=grpc&serviceName=Tel%20:%20@NT_Safe&fp=chrome&pbk=p-FNeH1T5de5nmwI7iT16MQKWspQ0b6C9GGSRwGtlnM&sid=20db1be5e1ab118a#🔒 VL-GRPC-RLT 🇬🇧 GB-51.89.119.99:11045
@@ -497,4 +498,3 @@ vless://17d87202-4ca2-49d2-9c90-5eca029c97f6@104.21.8.209:80?security=none&type=
 vless://b73f44c0-caaf-4654-c723-192b08f3e615@94.182.129.211:18231?type=tcp&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-94.182.129.211:18231
 vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@104.21.95.103:443?security=tls&sni=bypass.dd-6b2.workers.dev&type=ws&host=bypass.dd-6b2.workers.dev&path=%2F%40bypass_filter%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.95.103:443
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.153:80?type=ws&host=gozargah.validbv7996.ir&path=%2FTelegram%40WangCai2%2F%3Fed%3D2560#🔒 VL-WS-NA 🇳🇱 NL-45.131.4.153:80
-vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@104.21.95.156:8880?security=none&type=httpupgrade&host=2.v2.www.speedtest.net.blue99shop.ir&path=/#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.21.95.156:8880

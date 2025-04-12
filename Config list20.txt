@@ -1,3 +1,4 @@
+vless://34842069-dcb9-4595-bd60-20b0562c56e5@108.162.192.217:8443?security=tls&sni=us-252.memories-00.space&type=xhttp&path=/api/v1&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-XHTTP-TLS 🏴‍☠️ NA-108.162.192.217:8443
 vless://ea179d57-abac-444b-8c7c-ac7a2726f55f@188.114.97.90:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.90:443
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@172.64.152.226:80?security=none&type=ws&host=gozargah.validbv7996.ir&path=/Telegram@sinavm/?ed%3D2550#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.152.226:80
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.208:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.208:80
@@ -497,4 +498,3 @@ vless://e64c466e-912d-4ee9-8d9a-02f560562f2b@172.67.180.227:80?security=none&sni
 vless://8b562c77-fc99-4d25-9100-d8c0849cc9ff@103.116.7.202:2053?security=tls&sni=8b562c77-fc99-4d25-9100-d8c0849cc9ff.bvzizx.com&type=ws&host=cosi.bvzizx.com&path=%2Fwss37193#🔒 VL-WS-TLS 🇺🇸 US-103.116.7.202:2053
 vless://38720105-063f-40f5-a5eb-f3198b9b617d@172.66.44.233:443?security=tls&sni=aksnmaioas.pages.dev&type=ws&host=aksnmaioas.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.233:443
 vless://55520747-311e-4015-83ce-be46e2060ce3@206.238.237.243:443?security=tls&sni=re.vs2024.us.kg&type=ws&path=%2F%3Fed&fp=chrome#🔒 VL-WS-TLS 🇸🇬 SG-206.238.237.243:443
-vless://41abecd9-8096-4142-a75c-4e1d36d990bd@46.254.92.33:443?security=tls&sni=mmdserver.us.kg&type=ws&host=mmdserver.us.kg&path=%2F%3Fed%3D2048fp%3Dios#🔒 VL-WS-TLS 🇷🇺 RU-46.254.92.33:443
