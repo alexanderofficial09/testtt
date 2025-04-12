@@ -1,4 +1,3 @@
-vless://f558f4db-96e5-4e79-8b57-34e39ba4899b@104.21.16.1:8880?security=none&type=ws&host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ws79.cloudfront.net.kiava.fun#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.16.1:8880
 vless://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.24.148.184:80?type=ws&host=muddy-rain-0a28-ppal03.mitey24737.workers.dev&path=/?ed%3D2560#🔒 VL-WS-NA 🏴‍☠️ NA-104.24.148.184:80
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.120:80?sni=301.pooriam.ir&type=ws&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇳🇱 NL-45.131.4.120:80
 vless://b6f52521-c65d-43d6-bca4-76790c68d6fd@104.26.3.67:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.3.67:443
@@ -498,3 +497,4 @@ vless://8e09a4d7-80fc-4bb3-b3fb-1eb23211756a@104.21.112.1:2087?security=tls&sni=
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.226:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.226:80
 vless://a5f3cdb6-cd7c-4289-9551-ec6f91a51e68@104.22.1.49:443?security=tls&sni=calm-bonus-748d.jixosey717.workers.dev&type=ws&host=calm-bonus-748d.jixosey717.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.1.49:443
 vless://636b1684-b26c-4a9c-bc6e-8e1197a36d74@104.21.40.164:8080?security=none&type=ws&host=workerr.hashdiler.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.40.164:8080
+vless://875dac5e-4700-4cce-b1f9-40b891b3a927@185.204.168.191:1133?security=none&type=tcp#🔒 VL-TCP-NONE 🇩🇪 DE-185.204.168.191:1133

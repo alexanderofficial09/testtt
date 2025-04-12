@@ -1,4 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@60.249.35.39:2377#🔒 SS-TCP-NA 🇹🇼 TW-60.249.35.39:2377
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@69.50.95.245:445#🔒 SS-TCP-NA 🇺🇸 US-69.50.95.245:445
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.47:8080#🔒 SS-TCP-NA 🇳🇱 NL-103.104.247.47:8080
 ss://YWVzLTI1Ni1nY206M0RZSlhDVTk4UDFNOUI1QQ==@185.237.185.77:20036#🔒 SS-TCP-NA 🇱🇹 LT-185.237.185.77:20036
@@ -498,3 +497,4 @@ trojan://blue2024@172.64.146.66:443?security=tls&type=tcp&sni=ta.promote.icu#%E6
 ss://YWVzLTEyOC1nY206ZjM0N2I2NDQtNWNlNy00OGIyLWJlMDctOTc0NzQ4MDVhOWFm@142.91.98.103:45609#%E6%9C%AA%E7%9F%A569
 trojan://vs6f8hvt@104.26.4.157:443?security=tls&type=ws&sni=trojan.cchappy.eu.org&path=/?ed=2560&host=trojan.cchappy.eu.org#%E6%9C%AA%E7%9F%A570
 trojan://6849c459-9b04-46e6-8dd8-f92812711563@45.146.232.173:27001?security=tls&type=tcp&sni=q08m.vgraxiw73s.hasyaf.cn#HK8
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNzEiLCJhZGQiOiJodHRwczovL2dpdGh1Yi5jb20vQUxJSUxBUFJPL3YycmF5TkctQ29uZmlnIiwicG9ydCI6IjQzMyIsImlkIjoiRnJlZSIsImFpZCI6IjAiLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiI3MSJ9

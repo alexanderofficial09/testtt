@@ -1,4 +1,3 @@
-vless://38f53254-2252-4497-a42a-bc07e087246b@172.67.221.169:443?security=tls&sni=test.digikala-aparat-zula.com&type=ws&host=test.digikala-aparat-zula.com&path=%2Fadmin#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.221.169:443
 vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@147.135.125.120:443?security=tls&sni=147135010103.sec19org.com&type=tcp&allowInsecure=1#🔒 VL-TCP-TLS 🇺🇸 US-147.135.125.120:443
 vless://6a3e9e9d-5c2e-481a-887e-f8d7acf5ef75@104.31.16.104:80?security=none&type=ws&host=ftp.debian.org.www.speedtest.net.dnschecker.heydasproject.name.ng.&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.31.16.104:80
 vless://55520747-311e-4015-83ce-be46e2060ce3@216.24.57.113:443?security=tls&sni=re.vs2024.us.kg&type=ws&path=%2F%20re.vs2024.us.kg&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-216.24.57.113:443
@@ -498,3 +497,4 @@ vless://e4a56d04-d6b5-4304-8d94-37c11515099f@172.66.47.88:8443?security=tls&sni=
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.26.6.112:443?security=tls&sni=in.youlingkais.filegear-sg.me&type=ws&host=in.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.6.112:443
 vless://716e8c06-40e6-41ae-82ca-db79b41112c2@188.114.96.76:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.76:443
 vless://81191cda-0982-4cbd-8d60-2ef076e08d17@188.114.97.6:443?security=tls&sni=nice-try-worker-inc.weredex932.workers.dev&type=ws&host=nice-try-worker-inc.weredex932.workers.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.6:443
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.44.194:443?security=tls&sni=il.ylkszy.eu.org&type=ws&host=il.ylkszy.eu.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.44.194:443

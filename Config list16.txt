@@ -1,4 +1,3 @@
-vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@45.142.120.190:443?security=tls&sni=Tp810P28gI.aNa-SoFt.Ir&type=grpc#🔒 VL-GRPC-TLS 🇷🇺 RU-45.142.120.190:443
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.248:80?type=ws&host=gozargah.validbv7996.ir&path=%2FTelegram%40WangCai2%2F%3Fed%3D2560#🔒 VL-WS-NA 🇳🇱 NL-45.131.4.248:80
 vless://8a08c187-594b-4e14-b875-856913cee3bb@185.137.27.165:443?security=tls&sni=dl.arvancdn.lat&type=ws&host=dl.arvancdn.lat&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇮🇷 IR-185.137.27.165:443
 vless://5150600b-d270-4be8-8d78-c5784d3c093b@199.232.57.124:443?security=tls&sni=dialacoke.com&type=ws&host=sv33traiersdmifdsne.ai#🔒 VL-WS-TLS 🇬🇧 GB-199.232.57.124:443
@@ -498,3 +497,4 @@ vless://08c41e17-9d1c-4d4a-9edc-242d3d71c1ac@188.114.96.3:8080?security=none&sni
 vless://66623734-6266-4361-b037-613830383631@162.159.136.232:443?security=tls&sni=cf-fill-nearest-new.digikalacomaparatcom.shop&type=ws&host=cf-fill-nearest-new.digikalacomaparatcom.shop&path=%2Fl_warp%2Fw%2Fecd1st%3Fed%3D2048&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.136.232:443
 vless://a61fc8cb-0012-4c4b-aa5e-d1c623ae8092@104.20.18.168:8880?security=none&type=ws&host=worker-late-feather-d436.wedome3486.workers.DEV&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.18.168:8880
 vless://34842069-dcb9-4595-bd60-20b0562c56e5@108.162.192.217:8443?security=tls&sni=us-252.memories-00.space&type=xhttp&path=/api/v1&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-XHTTP-TLS 🏴‍☠️ NA-108.162.192.217:8443
+vless://f558f4db-96e5-4e79-8b57-34e39ba4899b@104.21.16.1:8880?security=none&type=ws&host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ws79.cloudfront.net.kiava.fun#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.16.1:8880
