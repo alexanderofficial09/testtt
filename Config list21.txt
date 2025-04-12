@@ -1,3 +1,5 @@
+vless://9900e8bb-d01b-42a6-ba16-17f958fa0b6c@199.34.228.182:2096?security=tls&sni=bEAt.MIRaclETaxbiTS.Top.&type=ws&path=/2096/@VRayyNGvpn#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.182:2096
+vless://2ffe29ef-258c-43f5-b63d-5017048950c2@172.67.137.115:443?security=tls&sni=papl03.JamaNI-KInsLEr.WORKErS.dEV&type=ws&host=pAPL03.JaMANI-kinsLEr.wORKErS.dev&path=%2FEmnMzJgeEcbarabP%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.137.115:443
 vless://59a4728e-835d-4fb0-940e-90741d5187be@37.27.250.128:1519?security=none&type=tcp&host=testspeed-foreign.tci.ir&headerType=http#🔒 VL-TCP-NONE 🇫🇮 FI-37.27.250.128:1519
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@160.153.138.178:2087?security=tls&sni=CiHsFuEf76.nExTvIsIoNaRy.oRg&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-160.153.138.178:2087
 vless://780161d1-a345-45d4-96fb-c2c4b88bf151@185.238.228.33:443?security=tls&sni=dd.gevom47953.workers.dev&type=ws&host=dd.gevom47953.workers.dev&path=%2F&fp=chrome#🔒 VL-WS-TLS 🇪🇸 ES-185.238.228.33:443
@@ -496,5 +498,3 @@ vless://d6660712-4d18-47fd-b095-0c36db667250@23.227.39.47:443?security=tls&sni=s
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.24.197.20:8443?security=tls&sni=hastI.frEEaIrlAiNes.Com&type=ws&host=HAsti.FrEeAiRLAIneS.com&path=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.197.20:8443
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.26.6.89:443?security=tls&sni=in.youlingkais.filegear-sg.me&type=ws&host=in.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.6.89:443
 vless://5abe79f6-57c2-4999-b6a0-bb87a9496a37@188.114.96.160:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.160:443
-vless://131387aa-4b2a-43aa-bf7c-d94306ba55fb@104.18.32.69:80?security=none&type=ws&host=13tg.jpl8xmqb.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.32.69:80
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@91.225.219.114:443?security=tls&sni=vkvd127.mycdn.me&type=ws&host=ayeqehnn.kopoly.info&path=%2F&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🇲🇩 MD-91.225.219.114:443
