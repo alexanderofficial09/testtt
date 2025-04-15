@@ -1,3 +1,7 @@
+vless://e497da22-d020-40fb-a1fa-bc294066a2d2@194.152.44.156:8080?type=ws&host=pormang.webhost99.workers.dev&path=%2Fgh%20repo%20clone%202dust%20%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1#🔒 VL-WS-NA 🇳🇱 NL-194.152.44.156:8080
+vless://b6f52521-c65d-43d6-bca4-76790c68d6fd@188.114.99.208:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.99.208:443
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@172.64.33.144:443?security=tls&sni=edccr.ambercc.filegear-sg.me&type=ws&host=edccr.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.33.144:443
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.16.25.46:443?security=tls&sni=in.youlingkais.filegear-sg.me&type=ws&host=in.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.25.46:443
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.159:80?type=ws&host=foffmelo.com&path=/olem/ws?ed%3D2560#🔒 VL-WS-NA 🇫🇷 FR-151.101.123.159:80
 vless://d2638b15-7c54-4a83-b217-de0928070e2d@104.21.48.6:2053?security=tls&sni=MeHRNEWS.farsonLInE24.ir&type=httpupgrade&host=mehrnews.farsonline24.ir&path=%2F7uihmWjuk2GFctSVNRJ4qDc&fp=chrome&alpn=h2#🔒 VL-HTTPUPGRADE-TLS 🏴‍☠️ NA-104.21.48.6:2053
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.18.250.52:2095?security=none&type=ws&host=fuckingcloudflare.2-5e8.workers.dev&path=%2F%40AZARBAYJAB1%40AZARBAYJAB1-TABREZ.NET%3Fed%3D2560#🔒 VL-WS-NONE 🇨🇭 CH-185.18.250.52:2095
@@ -494,7 +498,3 @@ vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.27.94:443?security=tls&sni=5
 vless://ca68a029-971c-4ea4-8c1d-411cb7adc474@104.16.164.195:80?security=none&sni=patient-sunset-f000-ppal03.cijej53213.workers.dev&type=ws&host=patient-sunset-f000-ppal03.cijej53213.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.164.195:80
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.67.174.21:443?security=tls&sni=in.youlingkais.filegear-sg.me&type=ws&host=in.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.174.21:443
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.129:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.129:80
-vless://b077fb58-0b18-43a2-b2e9-dfe2a6b464db@104.18.6.215:2087?security=tls&sni=smart.trainofy.info&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.6.215:2087
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.67.198.203:443?security=tls&sni=cb.dong2025.cfd&type=ws&host=cb.dong2025.cfd&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.198.203:443
-vless://e4cb2d9f-61ef-4738-a3f2-a8889cdf91e6@162.159.130.234:80?security=none&type=ws&host=shhproxy-free.xn--85-pv2cl2k5x3fipr.org.&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.130.234:80
-vless://1ac81e9f-aa3f-4f09-b129-dd1e8e821b55@104.22.3.17:2053?security=tls&sni=ss.sudolog.ir&type=grpc&serviceName=--@sharkpublic--&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.22.3.17:2053
