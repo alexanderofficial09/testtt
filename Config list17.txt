@@ -1,3 +1,6 @@
+vless://34462e1f-28f5-4db7-8020-ca15aa1e72fc@162.159.130.234:8443?security=tls&sni=v-2rey-channel.pages.dev&type=ws&host=v-2rey-channel.pages.dev&path=%2FTeleram%3A+%40v_2ray#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.130.234:8443
+vless://77f806f0-8f87-4c01-8e07-c88d52092e92@104.21.73.221:443?security=tls&sni=cs2.film2serial.cloud&type=grpc&serviceName=6k9LhPdmkFyy7eL4dZlhBC&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.73.221:443
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@8.223.15.4:443?sni=edcci.aimercc.filegear-sg.me&type=ws&allowInsecure=1#🔒 VL-WS-NA 🇭🇰 HK-8.223.15.4:443
 vless://1af8b2d6-213d-49ce-9bc9-ffbdc5830c35@172.67.162.79:443?security=tls&sni=ARCane-427.Pages.DEV&type=ws&host=arcane-427.pages.dev&path=/api/assets&fp=android&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.162.79:443
 vless://103104c5-a3f5-4c48-8d8f-a72a56959799@162.159.193.194:443?security=tls&sni=ZyzZzoAO.puTAta.eu.ORg&type=ws&host=zyzzzoao.putata.eu.org&path=%2FN5Ank0DUsNvJIVyL%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.193.194:443
 vless://19521f09-daa8-4929-b806-f0a119a2bb88@172.66.47.130:2053?security=tls&sni=JoiNMAhDIsERVer-pa1.PaGEs.DEv&type=ws&host=joinmahdiserver-pa1.pages.dev&path=%2FMsiQtHbHPconTGbE%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.130:2053
@@ -495,6 +498,3 @@ vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.245:80?security=none&type=
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.0.144:443?security=tls&sni=GOV.UK&type=ws&host=k.kp&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-151.101.0.144:443
 vless://4cc278b5-74b7-5d49-8f78-a412058cdbc3@104.16.30.14:443?security=tls&sni=satoshi.mom&type=ws&host=public.satoshi.mom&path=/&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.30.14:443
 vless://a5f3cdb6-cd7c-4289-9551-ec6f91a51e68@104.26.9.9:443?security=tls&sni=steep-pine-3b0b.facic63646.workers.dev&type=ws&host=steep-pine-3b0b.facic63646.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.9.9:443
-vless://a04be978-3b21-42cf-a80c-4832894d26f0@172.67.155.241:8080?security=none&type=ws&host=shahed2.novintecc.org&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.155.241:8080
-vless://ea179d57-abac-444b-8c7c-ac7a2726f55f@188.114.97.201:443?security=tls&sni=steep-pine-3b0b.facic63646.workers.dev&type=ws&host=steep-pine-3b0b.facic63646.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.201:443
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.194.31:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.194.31:443
