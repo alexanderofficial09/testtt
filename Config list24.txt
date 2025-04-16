@@ -1,3 +1,5 @@
+trojan://Aimer@108.165.152.1:2087?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=ws&host=ngepx.ambercc.filegear-sg.me#🔒 TR-WS-TLS 🇺🇸 US-108.165.152.1:2087
+trojan://telegram-id-privatevpns@3.11.213.95:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-3.11.213.95:22222
 trojan://b37c8327-1fcf-4c9e-a42f-9f7922972cc1@45.146.232.173:34017?security=tls&sni=q08m.vgraxiw73s.hasyaf.cn&type=tcp#🔒 TR-TCP-TLS 🇭🇰 HK-45.146.232.173:34017
 trojan://502560b1-6cb2-443e-ba50-361c94ddab3a@172.65.190.172:33019?security=tls&sni=dtua1.bitznet.one#🔒 TR-TCP-TLS 🏴‍☠️ NA-172.65.190.172:33019
 trojan://blue2024@104.18.79.171:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.79.171:443
@@ -496,5 +498,3 @@ trojan://telegram-id-privatevpns@13.50.20.63:22222?security=tls&sni=trojan.burge
 trojan://tb5PqFczGQ@104.16.83.8:443?security=tls&sni=DieGo.DIEgoMAraDOnA.iR.&type=ws&host=DieGo.DIEgoMAraDOnA.iR.&path=%2F&fp=chrome&alpn=h2#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.83.8:443
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@207.244.65.58:443?security=tls&sni=trus.moonfree.top&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇺🇸 US-207.244.65.58:443
 trojan://Aimer@5.182.85.189:2096?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=ws&host=ngepy.ambercc.filegear-sg.me#🔒 TR-WS-TLS 🇷🇺 RU-5.182.85.189:2096
-trojan://Aimer@47.239.107.108:16032?sni=epcco.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇭🇰 HK-47.239.107.108:16032
-trojan://Aimer@162.159.129.41:443?sni=epccu.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.129.41:443

@@ -1,3 +1,5 @@
+trojan://Aimer@188.164.159.171:443?allowInsecure=0&sni=epcci.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E4%BA%9A%E7%BE%8E%E5%B0%BC%E4%BA%9A
+trojan://Aimer@154.83.2.88:2083?allowInsecure=0&sni=epcco.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
 trojan://Aimer@162.159.44.76:443?allowInsecure=0&sni=epcco.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
 trojan://Aimer@27.50.49.156:2096?allowInsecure=0&sni=epcci.ambercc.filegear-sg.me#_%E4%B8%AD%E5%9B%BD
 trojan://Aimer@170.106.152.78:443?allowInsecure=0&sni=epcco.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
@@ -496,5 +498,3 @@ vless://ea179d57-abac-444b-8c7c-ac7a2726f55f@188.114.98.123:443?security=tls&sni
 vless://d32e19c3-9928-4811-b3b5-b1ce6b3792ea@205.233.181.186:2096?security=tls&sni=bEAt.MIRaclETaxbiTS.Top.&type=ws&path=%2F2096%2F%40VRayyNGvpn#🔒 VL-WS-TLS 🇺🇸 US-205.233.181.186:2096
 vless://88f7f39a-163c-4b83-989e-f69a7b579314@172.66.47.23:2096?security=tls&sni=mAHDISeRVEr-Ea5.pagEs.deV&type=ws&host=mAHDISeRVEr-Ea5.pagEs.deV&path=%2Fsowisld53dj231ht%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.23:2096
 vless://6ade04cf-9f8a-41b1-8f9b-fe5cf9e60d1d@216.24.57.89:2096?security=tls&sni=J0in-te1egram-EiiiM.danesh-bonyan.Store&type=ws&host=eiiim.danesh-bonyan.Store&path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.#🔒 VL-WS-TLS 🇺🇸 US-216.24.57.89:2096
-vless://7f037831-591d-4067-9c8c-39f07d12858a@45.131.211.255:80?sni=yuming.kkllllkkkk95.workers.dev&type=ws&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇳🇱 NL-45.131.211.255:80
-vless://9b930f59-9447-43bb-ab22-2a847344de33@62.60.218.219:30443?security=none&type=tcp&host=cafeariel.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-62.60.218.219:30443

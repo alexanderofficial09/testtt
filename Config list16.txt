@@ -1,3 +1,5 @@
+vless://7f037831-591d-4067-9c8c-39f07d12858a@45.131.211.255:80?sni=yuming.kkllllkkkk95.workers.dev&type=ws&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇳🇱 NL-45.131.211.255:80
+vless://9b930f59-9447-43bb-ab22-2a847344de33@62.60.218.219:30443?security=none&type=tcp&host=cafeariel.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-62.60.218.219:30443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.61:80?sni=301.pooriam.ir&type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇳🇱 NL-45.131.4.61:80
 vless://9ce5dc57-bfa3-4e9e-be9b-ca685d826feb@45.131.211.220:80?sni=worker-soft-mouse-6965.hevapey267.workers.Dev&type=ws&host=worker-soft-mouse-6965.hevapey267.workers.Dev&path=Telegram%40WangCai2#🔒 VL-WS-NA 🇳🇱 NL-45.131.211.220:80
 vless://42111477-885f-4d6a-b51e-cbd24c0607fd@216.198.53.1:443?security=tls&sni=tr.ps4link.ru&type=ws&host=tr.ps4link.ru&path=%2Finvestors.spotify.com%3Fed%3D2560&fp=chrome&alpn=h2&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-216.198.53.1:443
@@ -496,5 +498,3 @@ vless://e404df18-a2a5-4ca0-b878-8cda9cec7163@173.245.59.132:2052?security=none&t
 vless://55520747-311e-4015-83ce-be46e2060ce3@45.67.215.0:443?security=tls&sni=re.vs2024.us.kg&type=ws&path=%2Fuxs.vs2024.us.kg&fp=chrome#🔒 VL-WS-TLS 🇷🇺 RU-45.67.215.0:443
 vless://0db523ac-6cd4-477c-9560-16177eb07a10@104.26.12.8:2087?security=tls&sni=bEAt.MIRaclETaxbiTS.Top.&type=httpupgrade&host=BeAt.mIRacLeTaXbItS.tOP.&fp=chrome&alpn=h2,http/1.1#🔒 VL-HTTPUPGRADE-TLS 🏴‍☠️ NA-104.26.12.8:2087
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@104.248.189.15:59483?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-104.248.189.15:59483
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@108.162.193.201:443?sni=edcci.aimercc.filegear-sg.me&type=ws&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-108.162.193.201:443
-vless://c6919990-40ee-448c-a716-1cfbd4f0165e@104.22.51.209:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.51.209:443

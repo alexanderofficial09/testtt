@@ -1,3 +1,5 @@
+vless://a5f3cdb6-cd7c-4289-9551-ec6f91a51e68@188.114.98.144:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.144:443
+vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@147.135.125.119:443?security=tls&sni=147135010103.sec19org.com&type=tcp&allowInsecure=1#🔒 VL-TCP-TLS 🇺🇸 US-147.135.125.119:443
 vless://8250d638-45df-41fa-b06f-160d1cb1de0c@172.67.187.114:443?security=tls&sni=abc.vpneee.top&type=ws&host=abc.vpneee.top&path=%2FYnqGMcAt%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.187.114:443
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@160.153.138.204:2053?security=tls&sni=MoPrVjRx73.bRiGhTwAyE.OrG&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-160.153.138.204:2053
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.31:8880?type=grpc#🔒 VL-GRPC-NA 🇱🇹 LT-84.32.9.31:8880
@@ -496,5 +498,3 @@ vless://6d4ddb94-ebb6-4884-9711-00d0ca9d7dbe@151.101.56.105:80?security=none&typ
 vless://38f53254-2252-4497-a42a-bc07e087246b@172.67.221.169:443?security=tls&sni=test.digikala-aparat-zula.com&type=ws&host=test.digikala-aparat-zula.com&path=%2Fadmin#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.221.169:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.45.12:8443?security=tls&sni=mAhdisErver-338.pagEs.deV&type=ws&host=MAHDiserVeR-338.pagES.deV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.45.12:8443
 vless://c6919990-40ee-448c-a716-1cfbd4f0165e@188.114.97.98:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.98:443
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.193:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.193:8880
-vless://44b68625-8022-452b-8c91-ee40abe7ff63@104.21.85.68:443?security=tls&sni=ppaL03.aLesSIA-beRNiER.wORkeRS.dEv&type=ws&host=ppaL03.alEssiA-bERNIer.wORKeRS.dEV&path=%2F7mIeBq1gL7p8gNfU%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.85.68:443

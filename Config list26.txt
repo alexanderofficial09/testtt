@@ -1,3 +1,5 @@
+trojan://O3666Ckn6N@104.16.252.135:8080?security=none&type=ws&host=darkevil.news&path=%2F#🔒 TR-WS-NONE 🏴‍☠️ NA-104.16.252.135:8080
+trojan://NISHIKUITAN111@69.48.218.10:443?security=tls&sni=zb.ylks.xyz&type=ws&host=zb.ylks.xyz&path=/#🔒 TR-WS-TLS 🇺🇸 US-69.48.218.10:443
 trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.121.190:2053?security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua&type=grpc&serviceName=m3u8#🔒 TR-GRPC-TLS 🏴‍☠️ NA-141.101.121.190:2053
 trojan://b37c8327-1fcf-4c9e-a42f-9f7922972cc1@45.146.232.173:43497?security=tls&sni=q08m.vgraxiw73s.hasyaf.cn&type=tcp#🔒 TR-TCP-TLS 🇭🇰 HK-45.146.232.173:43497
 trojan://268f8604-ae22-47ea-a846-121bfa584236@45.146.232.173:43383?security=tls&sni=q08m.vgraxiw73s.hasyaf.cn&type=tcp#🔒 TR-TCP-TLS 🇭🇰 HK-45.146.232.173:43383
@@ -496,5 +498,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0TnJGWHU2TVVOamVDOWNjeU5LQTJ4@77.238.245.245
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxN2p3dGNBME1teVlpMEpkZFVnWFhq@85.208.139.31:42037#🔒 SS-TCP-NA 🇩🇪 DE-85.208.139.31:42037
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.195:443#🔒 SS-TCP-NA 🇬🇧 GB-212.102.53.195:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#🔒 SS-TCP-NA 🇬🇧 GB-85.210.120.237:443
-ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@45.89.52.66:9001#🔒 SS-TCP-NA 🇹🇷 TR-45.89.52.66:9001
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYmUwYzk1NC00MjkxLTQ1ZWEtYjQ3ZC1jYTcxMzE4MDU1MGI=@103.135.102.151:52611#🔒 SS-TCP-NA 🇭🇰 HK-103.135.102.151:52611

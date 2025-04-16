@@ -1,3 +1,5 @@
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.6.231:80?security=none&sni=redfree8.pooriashop.ir&type=ws&host=redfree8.pooriashop.ir&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NONE 🇳🇱 NL-45.131.6.231:80
+vless://3be9e3cf-83cd-4618-b782-1b2a9a72bbec@172.67.203.57:443?security=tls&sni=TEl-pPAL03.chayA-duRGaN.workeRs.DeV&type=ws&host=TEl-ppAL03.CHayA-DuRGAN.WoRkers.dEv&path=%2Fz0HrW-43pVRvOrQE%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.203.57:443
 vless://39151573-a7b1-4e4c-829d-64ca71ec78d2@37.27.211.10:1524?security=none&type=tcp&host=testspeed-foreign.tci.ir&headerType=http#🔒 VL-TCP-NONE 🇫🇮 FI-37.27.211.10:1524
 vless://9368b093-d790-4096-9d8a-1265e82f9e2f@172.66.44.241:443?security=tls&sni=GgGgr.PaGES.dEV&type=ws&host=ggggr.pages.dev&path=%2FgLHWGBXwDuMKHx2C%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.241:443
 vless://6b1a9ddf-6498-4a7f-84fe-3cd88650c584@185.31.8.42:11011?type=tcp&host=varzesh3.com&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-185.31.8.42:11011
@@ -496,5 +498,3 @@ vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.199.19:2082?security=none&ty
 vless://e89e29b5-9a0c-4a22-b51c-b4c2a9586828@104.21.74.124:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.74.124:443
 vless://cc5ef30a-effc-4054-967a-5b474cd1e056@129.146.102.191:443?security=tls&flow=xtls-rprx-vision&sni=djdownloadus.xn--4gq62f52gopi49k.com&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇺🇸 US-129.146.102.191:443
 vless://ece26ca7-1552-4158-806d-a04de25dc4c3@46.226.166.246:443?security=none&type=grpc#🔒 VL-GRPC-NONE 🇫🇷 FR-46.226.166.246:443
-vless://594dd6b7-657d-4154-96e7-7c7698f8fdac@185.126.9.109:57107?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.126.9.109:57107
-vless://c88b1fb9-e2dd-4713-b670-a84aae1386be@198.41.193.154:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.193.154:443

@@ -1,3 +1,5 @@
+trojan://Aimer@47.239.107.108:16032?sni=epcco.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇭🇰 HK-47.239.107.108:16032
+trojan://Aimer@162.159.129.41:443?sni=epccu.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.129.41:443
 trojan://Aimer@162.159.44.227:443?sni=agepm.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.44.227:443
 trojan://4467ae8518abf1ef321618c0bfb5549ccc@172.236.206.172:10004?security=tls&sni=www.cloudflare.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇩🇪 DE-172.236.206.172:10004
 trojan://%263*iMxGxdoLZ@104.21.64.1:2087?security=tls&sni=tabnak.twn24.ir&type=httpupgrade&host=tabnak.twn24.ir&path=%2FQHUjDbc6&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 TR-HTTPUPGRADE-TLS 🏴‍☠️ NA-104.21.64.1:2087
@@ -496,5 +498,3 @@ trojan://b37c8327-1fcf-4c9e-a42f-9f7922972cc1@45.146.232.173:10465?security=tls&
 trojan://cd0e795a-4f26-4f8c-9981-ed8b7dcb6126@172.67.163.102:443?sni=sDFgHU.931.pP.ua&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.163.102:443
 trojan://936c6853-6bbf-4e24-8667-ec5b2fc275b3@104.26.14.85:443?security=tls&sni=md1.safecdn.site&type=ws&host=md1.safecdn.site&path=%2FTelegram%40FreeV2Alpha#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.14.85:443
 trojan://f6a0a650-306e-11ee-b692-1239d0255272@51.158.146.183:443?security=tls&sni=Speedtest.net#🔒 TR-TCP-TLS 🇫🇷 FR-51.158.146.183:443
-trojan://O3666Ckn6N@104.16.252.135:8080?security=none&type=ws&host=darkevil.news&path=%2F#🔒 TR-WS-NONE 🏴‍☠️ NA-104.16.252.135:8080
-trojan://NISHIKUITAN111@69.48.218.10:443?security=tls&sni=zb.ylks.xyz&type=ws&host=zb.ylks.xyz&path=/#🔒 TR-WS-TLS 🇺🇸 US-69.48.218.10:443
