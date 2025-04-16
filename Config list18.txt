@@ -1,3 +1,4 @@
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.27.0.44:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=/&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.27.0.44:443
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.127:8880?type=grpc#🔒 VL-GRPC-NA 🇳🇱 NL-88.216.187.127:8880
 vless://3130e111-a06c-4388-aeda-4b43f6e8e51f@104.26.13.31:443?security=tls&sni=FinLAnd-A3r.pAgES.dEv&type=ws&host=finland-a3r.pages.dev&path=%2Fk2Q7n9FHu7K5AmBg%2FMzUuMjI4LjM2Ljgy%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.13.31:443
 vless://ea179d57-abac-444b-8c7c-ac7a2726f55f@172.67.68.178:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.68.178:443
@@ -497,4 +498,3 @@ vless://c3f840ae-9b7a-4846-84d7-a7b52f215f0a@104.16.163.32:8443?security=tls&sni
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@92.243.75.49:2087?security=tls&sni=edccq.aimercc.filegear-sg.me&type=ws&host=edccq.aimercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇸🇬 SG-92.243.75.49:2087
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.198:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.198:8880
 vless://e312cb7d-2452-489c-9733-cdf910f3edd1@206.189.148.78:443?security=tls&flow=none&sni=youtube.com&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇸🇬 SG-206.189.148.78:443
-vless://77a571fb-4fd2-4b37-8596-2b7d9728bb5c@172.67.148.99:8880?security=none&type=ws&host=xw.r4d.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.148.99:8880
