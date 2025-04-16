@@ -207,7 +207,7 @@ Protocol: Select SOCKS5
 
 Some installed programs on the system, like Spotube, might not fully tunnel. This issue can be resolved with this method.
 
-Your friend, EPODONIOS
+Your friend, Isgenderow
 
 
 
