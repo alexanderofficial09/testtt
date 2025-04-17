@@ -1,3 +1,9 @@
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.16.149.244:2095?security=none&type=ws&host=fuckingcloudflare.20241225.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.149.244:2095
+vless://a0acb9f9-b2f1-4af4-b4eb-32234a254c71@172.67.179.20:80?security=none&type=ws&host=SwMeHrV2ray.naziitness.com.#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.179.20:80
+vless://cc6b985d-0362-4129-8763-38564174fb3e@154.197.64.163:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome&alpn=http/1.1,h2#🔒 VL-GRPC-TLS 🇸🇨 SC-154.197.64.163:443
+vless://41e606c4-c9bb-42a3-9601-55e9ff6f706a@104.18.27.189:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.27.189:443
+vless://2805e3e5-25bc-4fea-9a5c-51eb800fe379@172.64.35.157:443?security=tls&sni=y64n10.soroush-app.com&type=ws&host=y64n10.soroush-app.com&path=%2Fwss&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.35.157:443
+vless://0c4c25fa-359a-453b-993b-a60df9a91640@104.18.20.20:443?security=tls&sni=us2.globals-download.com&type=ws&host=us2.globals-download.com&path=%2Fpq%2Fus2&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.20.20:443
 vless://c91b9dbf-91c4-49fc-a380-21ed6ea041e3@104.19.54.50:8880?type=ws&host=V2rayArgoN.elmahstyle.xyz.#🔒 VL-WS-NA 🏴‍☠️ NA-104.19.54.50:8880
 vless://51385ef4-f91d-40f0-9acd-10fda0032ac8@172.66.47.45:2083?security=tls&sni=MaHdiSerVER-3ZO.PAgeS.DeV&type=ws&host=mahdiserver-3zo.pages.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.45:2083
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.49.114:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.49.114:443
@@ -492,9 +498,3 @@ vless://5abe79f6-57c2-4999-b6a0-bb87a9496a37@104.18.5.182:443?security=tls&sni=x
 vless://fb55df78-d8cd-fb15-0ceb-4e50d02908f9@185.143.233.1:80?security=none&type=ws&host=scscff-1851f99151-server.apps.ir-central1.arvancaas.ir&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-185.143.233.1:80
 vless://d578322a-266b-479d-9eda-f1b41324e721@199.232.8.123:80?security=none&type=ws&host=IRANINGOAT2.IR#🔒 VL-WS-NONE 🇺🇸 US-199.232.8.123:80
 vless://04d533ee-51ba-47cc-a703-6336470898ad@172.67.202.213:443?security=tls&sni=mhsang2c3.afsharidempire.uk&type=ws&host=mhsang2c3.afsharidempire.uk&path=/8Ku2BGY685PUNtppXQIC9t&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.202.213:443
-vless://e0fe6184-d21d-4a5c-a31c-2453e6854991@172.66.44.201:443?security=tls&sni=mAhDiserVER-9Tw.pAgEs.DeV&type=ws&host=mahdiserver-9tw.pages.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.201:443
-vless://9fdc6f83-bfbd-40dd-8e4e-1678ee20351c@108.162.195.33:80?security=tls&sni=fari24.clodmolt3.com&type=ws&host=fari24.clodmolt3.com&path=/wss&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.195.33:80
-vless://354e86bf-3d2f-5bfa-2c14-45cd8ac050f6@151.101.66.216:80?security=none&type=ws&host=marzneshinestonia.car&path=%2F%3Fed%3D1024#🔒 VL-WS-NONE 🇺🇸 US-151.101.66.216:80
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.208.137:80?security=none&sni=redfree8.pooriashop.ir&type=ws&host=redfree8.pooriashop.ir&path=Telegram@WangCai2/?ed#🔒 VL-WS-NONE 🇳🇱 NL-45.131.208.137:80
-vless://177a73dd-3922-4aa5-887d-703cf7acda67@104.24.197.20:2096?security=tls&sni=mJe.nimhub.ir&type=ws&host=mJe.nimhub.ir&path=/&fp=random&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.197.20:2096
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@188.114.97.3:80?security=none&type=ws&host=gozargah.validbv7996.ir&path=%2FSIGrNRCU4ongDlz4%3Fed#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.97.3:80

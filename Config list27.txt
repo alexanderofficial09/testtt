@@ -1,3 +1,9 @@
+ss://cmM0LW1kNTplZmFuY2N5dW4=@120.240.153.25:8766#🔒 SS-TCP-NA 🇨🇳 CN-120.240.153.25:8766
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.166:8080#🔒 SS-TCP-NA 🇱🇹 LT-45.87.175.166:8080
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#🔒 SS-TCP-NA 🇯🇵 JP-149.22.87.204:443
+ss://YWVzLTI1Ni1nY206MUg1S1g1UVpCVU9XUDJQNA==@156.231.104.17:18007#🔒 SS-TCP-NA 🇯🇵 JP-156.231.104.17:18007
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@162.251.63.123:5004#🔒 SS-TCP-NA 🇺🇸 US-162.251.63.123:5004
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5TVg5V0dQZ1VFY1JabWxhYTBZSEhD@103.106.1.92:23492#🔒 SS-TCP-NA 🇳🇱 NL-103.106.1.92:23492
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@188.214.36.155:989#🔒 SS-TCP-NA 🇪🇪 EE-188.214.36.155:989
 ss://YWVzLTI1Ni1jZmI6QmVqclF2dHU5c3FVZU51Wg==@217.30.10.18:9024#🔒 SS-TCP-NA 🇵🇱 PL-217.30.10.18:9024
 ss://YWVzLTI1Ni1nY206M0pIVE5LMTNUNkJDRVZOSA==@156.231.104.24:18014#🔒 SS-TCP-NA 🇯🇵 JP-156.231.104.24:18014
@@ -492,9 +498,3 @@ ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.101:8008#US2%201.9MB%2Fs
 trojan://3747000103274291200@62.112.221.57:443?security=tls&type=tcp&sni=integral-malamute.adder289.quest#%E6%9C%AA%E7%9F%A55
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@183.240.139.235:2053?security=tls&sni=official.tokyometropolis.odessa.ua#%E6%9C%AA%E7%9F%A56
 trojan://Aimer@121.135.67.36:12205?security=tls&type=ws&sni=epccw.ambercc.filegear-sg.me&host=epccw.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A57
-trojan://20bc0771-1fde-45ee-8052-3c26249c43dc@141.148.158.215:34865?security=tls&type=tcp&sni=zurich.678789.xyz#US3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyN05Eb1Z6M01lcGtXZVp6NGVzNlQxWHN1SEJ5akIybTRDVUJZZVdpZzZ3anhxejVBeVpaVUF0SDd4UEtEY2I4QVllSzNnYzlBUzRCTjRwTWJQRTZGTGVISDdTaWRCVjE=@185.5.38.111:55988#%E6%9C%AA%E7%9F%A58
-trojan://68601963-27c2-4253-c784-914782ce09ef@151.101.66.219:80?security=none&type=ws&path=/olem/ws?&host=foffmelo.com#US4
-ss://YWVzLTI1Ni1nY206NzUxVTNUNVBQQVZXVk1SMg==@206.245.211.12:19002#%E6%9C%AA%E7%9F%A59
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOazlhc2dsRHpIemprdFZ6VGt2aGFB@160.19.78.75:443#%E6%9C%AA%E7%9F%A510%2073.1KB%2Fs
-trojan://Aimer@104.234.233.57:35911?security=tls&type=tcp&sni=agept.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A511
