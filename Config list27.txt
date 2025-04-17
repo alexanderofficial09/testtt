@@ -1,3 +1,7 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@95.174.71.30:2377#🔒 SS-TCP-NA 🇺🇸 US-95.174.71.30:2377
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.149.183.10:8388#🔒 SS-TCP-NA 🇭🇰 HK-103.149.183.10:8388
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@95.174.71.101:2377#🔒 SS-TCP-NA 🇺🇸 US-95.174.71.101:2377
+ss://YWVzLTI1Ni1nY206RlMzN0Y2MUdCQUlYSkY2RQ==@206.245.211.13:19003#🔒 SS-TCP-NA 🇬🇧 GB-206.245.211.13:19003
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@60.249.35.96:2377#🔒 SS-TCP-NA 🇹🇼 TW-60.249.35.96:2377
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVRGNqWVE2WjZBSVd4VmlacHF5T21P@46.246.98.155:44013#🔒 SS-TCP-NA 🇸🇪 SE-46.246.98.155:44013
 ss://YWVzLTI1Ni1jZmI6Qk5tQVhYeEFIWXBUUmR6dQ==@80.92.204.106:9020#🔒 SS-TCP-NA 🇩🇪 DE-80.92.204.106:9020
@@ -494,7 +498,3 @@ vless://55520747-311e-4015-83ce-be46e2060ce3@220.118.248.123:30012?allowInsecure
 hysteria2://b72ba5d5-2d5e-45b7-93b5-236d343baa7c@170.9.225.44:47262?insecure=1&sni=www.bing.com#1%7C%F0%9F%87%BA%F0%9F%87%B84%20%7C%20%204.8MB/s
 hysteria2://dongtaiwang.com@46.29.163.171:32555?insecure=1&sni=apple.com#1%7C%F0%9F%87%B7%F0%9F%87%BA1%20%7C%20%204.7MB/s
 trojan://9e9ef571-5a94-47e9-916f-95c14f75f6f2@aafrtpfxr.frl01i9zjfegelp.5xfsur8v62.gosdk.xyz:43498?allowInsecure=0&sni=q08m.vgraxiw73s.hasyaf.cn#1%7C%F0%9F%87%AB%F0%9F%87%B71%20%7C%20%205.3MB/s
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@gysz0000.dynu.net:16011?sni=www.amazon.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#1%7C%F0%9F%87%A8%F0%9F%87%A61%20%7C%20%203.8MB/s
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@zhee01.dynu.net:54220?sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#1%7C%F0%9F%87%AD%F0%9F%87%B01%20%7C%20%203.1MB/s
-vless://4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.210.16:80?sni=digitalscientificresearchgroup.ir&type=ws&host=digitalscientificresearchgroup.ir&path=Telegram🇨🇳@WangCai2/?ed=2560flow=-udp443&fp=#1%7C%F0%9F%87%BA%F0%9F%87%B85%20%7C%20%205.6MB/s
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMXzwn4e68J+HuDIwIHwgIDIuOE1CL3MiLCAiYWRkIjogIjc2MzI4MTQxLXN2MnNnMC10OThlNHEtMW0yYXMuY3UucGxlYmFpLm5ldCIsICJwb3J0IjogNTIyOCwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImU0NGI3OWZhLWVjMDYtMTFlZS1hZWNkLWYyM2M5MTY0Y2E1ZCJ9
