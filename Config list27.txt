@@ -1,5 +1,3 @@
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.132:443#🔒 SS-TCP-NA 🇺🇸 US-212.102.47.132:443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowa011QWVJbFNxbG1FcEY3eVBkTVZj@62.60.233.240:55548#🔒 SS-TCP-NA 🇹🇷 TR-62.60.233.240:55548
 ss://YWVzLTI1Ni1jZmI6Z1lDWVhma1VRRXMyVGFKUQ==@217.30.10.18:9038#🔒 SS-TCP-NA 🇵🇱 PL-217.30.10.18:9038
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@60.249.35.39:2377#🔒 SS-TCP-NA 🇹🇼 TW-60.249.35.39:2377
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@37.19.222.211:443#🔒 SS-TCP-NA 🇸🇪 SE-37.19.222.211:443
@@ -498,3 +496,5 @@ trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.74.162:443?security=tls&typ
 trojan://Uy1,SF%23%5Dszr%25y.%3Cs@172.66.46.220:2083?security=tls&type=tcp&sni=jOinMaHdIsErVer-6Qj.PAgES.DEv#%E6%9C%AA%E7%9F%A523
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTova0dwWU13QlVmSlVTM0FOQ0l2YnI3RnpPRDdmclUvVDd3bVhMa0RJSDVRPQ==@23.88.54.248:443#%E6%9C%AA%E7%9F%A524
 trojan://73456460-0e3c-46cd-a1aa-92d4fc17584c@45.146.232.173:27102?sni=q08m.vgraxiw73s.hasyaf.cn#HK3
+trojan://Aimer@104.19.60.193:2083?sni=epccu.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A525
+trojan://T%40_WvT8Ho%40LW%25w_%2C@172.66.47.42:2053?security=tls&type=ws&sni=NOp-55q.pAgEs.dEv&path=/trGPZDfetEwuO25SAs?ed=2560&host=nop-55q.pages.dev#%E6%9C%AA%E7%9F%A526

@@ -1,5 +1,3 @@
-trojan://Aimer@108.165.152.59:2087?sni=agepw.ambercc.filegear-sg.me&allowInsecure=1#🔒 TR-TCP-NA 🇺🇸 US-108.165.152.59:2087
-trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.205:2053?security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua&type=grpc&serviceName=m3u8#🔒 TR-GRPC-TLS 🏴‍☠️ NA-141.101.120.205:2053
 trojan://d70a8847-7c64-4912-98f2-ea21e952880f@45.146.232.172:33506?sni=q08m.vgraxiw73s.hasyaf.cn&allowInsecure=0#🔒 TR-TCP-NA 🇭🇰 HK-45.146.232.172:33506
 trojan://Aimer@146.56.155.102:20003?security=tls&sni=ngepo.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇰🇷 KR-146.56.155.102:20003
 trojan://74260696553770700@85.234.83.204:443?#🔒 TR-TCP-NA 🇯🇵 JP-85.234.83.204:443
@@ -498,3 +496,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYajZwVXllNEJJWTdDNzh1WXZrNmt1@77.246.98.67:4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@18.179.197.162:2377#🔒 SS-TCP-NA 🇯🇵 JP-18.179.197.162:2377
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.110.1.146:443#🔒 SS-TCP-NA 🇺🇸 US-38.110.1.146:443
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@154.197.26.237:8388#🔒 SS-TCP-NA 🇭🇰 HK-154.197.26.237:8388
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.132:443#🔒 SS-TCP-NA 🇺🇸 US-212.102.47.132:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowa011QWVJbFNxbG1FcEY3eVBkTVZj@62.60.233.240:55548#🔒 SS-TCP-NA 🇹🇷 TR-62.60.233.240:55548
