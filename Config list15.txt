@@ -1,3 +1,6 @@
+trojan://Aimer@154.197.64.240:8443?allowInsecure=0&sni=epcco.ambercc.filegear-sg.me#_%E4%B8%AD%E5%9B%BD
+trojan://Aimer@103.116.7.133:2083?allowInsecure=0&sni=epcci.ambercc.filegear-sg.me#%F0%9F%87%AF%F0%9F%87%B5%20_%E6%97%A5%E6%9C%AC
+trojan://Aimer@27.50.48.189:2083?allowInsecure=0&sni=epcco.ambercc.filegear-sg.me#_%E4%B8%AD%E5%9B%BD
 trojan://Aimer@199.34.228.66:2053?allowInsecure=0&sni=epccu.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
 trojan://Aimer@154.197.64.166:2053?allowInsecure=0&sni=epcco.ambercc.filegear-sg.me#_%E4%B8%AD%E5%9B%BD
 trojan://Aimer@154.211.8.109:2087?allowInsecure=0&sni=epccu.ambercc.filegear-sg.me#_%E4%B8%AD%E5%9B%BD
@@ -495,6 +498,3 @@ vless://21d889b6-78c3-4ad0-be32-145bc41f68d6@104.18.27.50:2095?type=ws&host=%76%
 vless://dfc1a9ab-6241-4b73-92f7-b299fc6b7751@104.26.12.101:2052?security=none&type=ws&host=Yak-Khanda-kUn-eY-gUL.biNG.com.xn--cR8HaaaAaAAAaAaaAaAaAAaAAaaaAAAAAaAaaAaaaAaaaaAAaaAAAaaaaAa.xN--Cr8hAaAaaAaaAAAAAAaaaAAAaAAaaAaAaAAAAAA.TREPAspeEdTEsT.NEtrag.cOm.PX.Com.sh017.IR.XN--Cr8hAaaAaaAaaAaaaAAAaaaAaaAaaaAaAAAaaaA.yek.dDnS-ip.nEt#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.12.101:2052
 vless://0f7f55fe-262d-5cc6-a59e-8dd512791a98@151.101.66.228:443?security=tls&sni=davidlab.ucdavis.edu&type=ws&host=speedtest.net.ftp.debian.org.1.2.3.j.z.x.jjjjjjjjj.netspeedtest.net.sewzx.iuyal.ir&path=%2Fvless%3Fed%3D443&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-151.101.66.228:443
 vless://c91ca460-51e6-470f-99ab-2b1d3439f194@104.27.21.118:443?security=tls&sni=byvless.xiaoqi666.xyz&type=ws&host=byvless.xiaoqi666.xyz&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.27.21.118:443
-vless://51d3d249-9095-4cbd-8fd2-3e6c1039cab4@172.67.180.238:8880?type=ws&host=falcunargo.c2259d7c10.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.180.238:8880
-vless://b7818198-0396-4daf-dff2-092628211a60@172.67.193.157:443?security=tls&sni=MIKasA.drAgoNAllEy.ir.&type=ws&host=MIKasA.drAgoNAllEy.ir.&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.193.157:443
-vless://96494ca5-6dcf-4d33-b94f-5c3485586095@104.16.1.35:8880?security=none&type=ws&host=hamedan.hiven33959.workers.dev&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.1.35:8880
