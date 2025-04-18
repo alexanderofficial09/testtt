@@ -1,5 +1,3 @@
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@bsuqian01.dynu.net:17930?sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#0%7C%F0%9F%8C%807-RO%20%7C%20%205.0MB/s
-vless://4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.5.233:80?sni=digitalscientificresearchgroup.ir&type=ws&host=digitalscientificresearchgroup.ir&path=flow=-udp443&fp=#0%7C%F0%9F%87%BA%F0%9F%87%B817%20%7C%20%201.4MB/s
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMHzwn4e68J+HuDE5IHwgIDMuOU1CL3MiLCAiYWRkIjogImEwYmMzMGUyLXN1eDhnMC1zdjc0ZWMtMXQ3YzIuY3UucGxlYmFpLm5ldCIsICJwb3J0IjogIjUyMjgiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJhMDg3ODcxYy1kMTg1LTExZWYtYmRiOS1mMjNjOTFjZmJiYzkifQ==
 vless://69e12c29-7b12-486f-abb8-4e5d5fd9f20e@farsidutch.nl:33832?sni=&flow=-udp443&fp=#0%7C%F0%9F%87%B3%F0%9F%87%B11%20%7C%20%204.2MB/s
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMHzwn4et8J+HsDQgfCAgMS4yTUIvcyIsICJhZGQiOiAiYzkyZDkwMzctc3VuejQwLXN1cWpxcS0xcHIzNS5oazMucDVwdi5jb20iLCAicG9ydCI6IDgwLCAiYWlkIjogMiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI2YjdjMTI3OC1mZjlkLTExZWUtODRjYS1mMjNjOTEzYzhkMmIiLCAic25pIjogIiIsICJwYXRoIjogIiJ9
