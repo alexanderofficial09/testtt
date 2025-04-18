@@ -1,3 +1,14 @@
+trojan://Aimer@188.166.162.201:443?sni=ngepz.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇩🇪 DE-188.166.162.201:443
+trojan://Aimer@152.70.112.175:14873?sni=epcco.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇺🇸 US-152.70.112.175:14873
+trojan://Aimer@188.164.159.138:2083?sni=epcci.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇦🇲 AM-188.164.159.138:2083
+trojan://Aimer@104.25.254.197:2096?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.25.254.197:2096
+trojan://8264f515-90b6-4152-9830-7abc0ec215c6@193.57.136.137:443?security=tls&sni=dried-chow-kite.stark-industries.solutions&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇹🇷 TR-193.57.136.137:443
+trojan://Aimer@162.120.94.232:8443?security=tls&sni=agept.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-162.120.94.232:8443
+trojan://SSorg@104.19.60.104:2096?security=tls&sni=ssjj.esslh.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.19.60.104:2096
+trojan://d2638b15-7c54-4a83-b217-de0928070e2d@172.67.175.40:8443?security=tls&sni=eXPrEssTv.faRsOnline24.Ir&type=ws&host=expresstv.farsonline24.ir&path=%2Fx8xN4dH28mo7U3sS&fp=chrome&alpn=h2#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.175.40:8443
+trojan://Aimer@192.9.148.42:443?sni=epccu.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇺🇸 US-192.9.148.42:443
+trojan://Aimer@188.164.159.234:2083?security=tls&sni=ageph.ambercc.filegear-sg.me&type=ws&host=ageph.ambercc.filegear-sg.mehttp/1.1&path=/#🔒 TR-WS-TLS 🇦🇲 AM-188.164.159.234:2083
+trojan://4467ae8518abf1ef321618c0bfb5549ccc@159.54.189.24:23050?security=tls&sni=www.cloudflare.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇺🇸 US-159.54.189.24:23050
 trojan://Aimer@45.194.53.81:2087?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=ws&host=ngepx.ambercc.filegear-sg.me#🔒 TR-WS-TLS 🇺🇸 US-45.194.53.81:2087
 trojan://Aimer@5.182.84.244:443?sni=agepn.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🇷🇺 RU-5.182.84.244:443
 trojan://bpb-trojan@89.116.250.94:443?security=tls&sni=bpb.my79801.com&type=ws&host=bpb.my79801.com&path=/tr?ed#🔒 TR-WS-TLS 🇱🇹 LT-89.116.250.94:443
@@ -487,14 +498,3 @@ trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.121.109:2053?security=tls&
 trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@185.14.47.199:12052?security=tls&sni=cdn.alibaba.com&type=tcp#🔒 TR-TCP-TLS 🇭🇰 HK-185.14.47.199:12052
 trojan://Aimer@45.86.229.28:443?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇪🇸 ES-45.86.229.28:443
 trojan://auto@162.159.44.202:443?security=tls&sni=trojanmz.pages.dev&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-162.159.44.202:443
-trojan://Aimer@46.254.92.142:2087?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=ws&host=ngepx.ambercc.filegear-sg.me#🔒 TR-WS-TLS 🇷🇺 RU-46.254.92.142:2087
-trojan://d70a8847-7c64-4912-98f2-ea21e952880f@45.146.232.173:42882?sni=q08m.vgraxiw73s.hasyaf.cn&allowInsecure=0#🔒 TR-TCP-NA 🇭🇰 HK-45.146.232.173:42882
-trojan://c97cf46e-1554-36cb-8b36-c3556b883dc4@172.67.175.149:443?sni=fr2a.88888806.xyz&allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.175.149:443
-trojan://Aimer@185.119.117.146:8443?sni=agepq.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇦🇹 AT-185.119.117.146:8443
-trojan://KAFtZ_hlCPQM2RIglPZDGQ@62.60.249.178:8390?security=none&type=tcp#🔒 TR-TCP-NONE 🇫🇮 FI-62.60.249.178:8390
-trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.121.80:2053?security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua&type=grpc&serviceName=m3u8#🔒 TR-GRPC-TLS 🏴‍☠️ NA-141.101.121.80:2053
-trojan://ef23ddd0-14c5-39c2-9880-af55ce892363@23.94.25.129:55511?security=tls&sni=t17.qifei.app&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-23.94.25.129:55511
-trojan://2e3562a819634de686ade78e434c0963@104.17.147.5:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.5:443
-trojan://Aimer@162.159.44.236:443?sni=epcco.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.44.236:443
-trojan://Aimer@156.229.164.158:10443?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-156.229.164.158:10443
-trojan://4deefa4b-349d-4db8-be3c-d4d61c862718@54.151.246.153:20230?security=tls&sni=421421.xyz&type=ws&path=%2F#🔒 TR-WS-TLS 🇸🇬 SG-54.151.246.153:20230
