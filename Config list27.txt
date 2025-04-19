@@ -1,3 +1,8 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKVHpqd05hOEE4YWppcXRENnNkeXRQ@147.45.51.30:443#🔒 SS-TCP-NA 🇮🇹 IT-147.45.51.30:443
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.110.1.88:5600#🔒 SS-TCP-NA 🇺🇸 US-38.110.1.88:5600
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.75.136.28:7001#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.28:7001
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpydFI0WVg3NHZ3cVJKdTlNR0gzZTFOM0NRZEdNV0NVRmt5TGlzaWppRnV2aGtVOU1jVjVUcHlnZmtlcm5KNFVRZTYzSnRjRFFrclE5SGZjaHpxUXoxa0xDblRSb3I4amc=@166.1.157.228:55330#🔒 SS-TCP-NA 🇺🇸 US-166.1.157.228:55330
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#🔒 SS-TCP-NA 🇦🇹 AT-95.164.9.144:2927
 ss://YWVzLTI1Ni1nY206TUs4REZNNTBLTUJTSVdEWA==@206.245.211.26:19016#🔒 SS-TCP-NA 🇬🇧 GB-206.245.211.26:19016
 ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@80.92.204.106:9042#🔒 SS-TCP-NA 🇩🇪 DE-80.92.204.106:9042
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@221.215.48.118:2377#🔒 SS-TCP-NA 🇨🇳 CN-221.215.48.118:2377
@@ -493,8 +498,3 @@ trojan://Aimer@162.159.143.219:443?sni=epccu.ambercc.filegear-sg.me#%E6%9C%AA%E7
 trojan://Aimer@108.165.152.80:2083?sni=epcco.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD6
 trojan://bpb-trojan@172.67.70.92:443?security=tls&type=ws&sni=zamim340.ggff.net&path=/tr?ed=2560&host=zamim340.ggff.net#%E6%9C%AA%E7%9F%A5115
 trojan://blue2024@104.16.112.144:443?security=tls&type=tcp&sni=ta.promote.icu#%E6%9C%AA%E7%9F%A5116
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@5.44.249.43:2377#%E6%9C%AA%E7%9F%A5117
-trojan://Aimer@45.67.214.41:2083?sni=agepw.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5118
-trojan://Aimer@154.211.8.240:443?security=tls&type=ws&sni=ngepx.ambercc.filegear-sg.me&host=ngepx.ambercc.filegear-sg.me#US28
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@95.174.71.29:2377#US29
-trojan://bpb-trojan@198.202.211.146:443?security=tls&type=tcp&sni=bpb.my79801.com#US30

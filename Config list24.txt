@@ -1,3 +1,8 @@
+trojan://6849c459-9b04-46e6-8dd8-f92812711563@45.146.232.173:27001?security=tls&sni=q08m.vgraxiw73s.hasyaf.cn&type=tcp#🔒 TR-TCP-TLS 🇭🇰 HK-45.146.232.173:27001
+trojan://Aimer@198.41.212.157:443?sni=epccu.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-198.41.212.157:443
+trojan://Aimer@192.9.148.42:443?sni=epcco.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇺🇸 US-192.9.148.42:443
+trojan://telegram-id-vlessconfig@52.47.159.4:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-52.47.159.4:22222
+trojan://vip@172.67.179.98:443?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.179.98:443
 trojan://vip@104.17.64.70:443?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.64.70:443
 trojan://auto@104.21.35.43:443?security=tls&sni=esetsecuritylicense3.wawafec355.workers.dev&type=ws&host=esetsecuritylicense3.wawafec355.workers.dev&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.35.43:443
 trojan://telegram-id-vlessconfig@52.58.28.81:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-52.58.28.81:22222
@@ -493,8 +498,3 @@ trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.121.190:2053?security=tls&
 trojan://Aimer@172.64.35.82:443?sni=epccu.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-172.64.35.82:443
 trojan://NISHIKUITAN111@185.193.29.193:443?#🔒 TR-TCP-NA 🇬🇧 GB-185.193.29.193:443
 trojan://Aimer@108.165.152.14:2096?sni=epccu.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇺🇸 US-108.165.152.14:2096
-trojan://1H%254NBDAq%23bQ@104.21.48.6:2083?security=tls&sni=tabnak.farsonline24.ir&type=ws&host=tabnak.farsonline24.ir&path=%2Fsq54iQsL&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.48.6:2083
-trojan://87c29139-765a-441e-a82d-fdbb46697695@132.226.29.72:443?security=tls&sni=us-2503-1.upd86.de&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-132.226.29.72:443
-trojan://vip@104.16.25.46:443?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.25.46:443
-trojan://vs6f8hvt@172.66.47.179:443?sni=trojan.cchappy.eu.org#🔒 TR-TCP-NA 🏴‍☠️ NA-172.66.47.179:443
-trojan://Aimer@104.16.36.89:443?sni=epccu.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.36.89:443
