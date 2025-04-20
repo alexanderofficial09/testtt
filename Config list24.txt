@@ -1,3 +1,7 @@
+vless://e4cb2d9f-61ef-4738-a3f2-a8889cdf91e6@162.159.130.234:80?security=none&type=ws&host=shhproxy-free.xn--85-pv2cl2k5x3fipr.org.&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.130.234:80
+vless://d6660712-4d18-47fd-b095-0c36db667250@188.114.96.147:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.147:443
+vless://5abe79f6-57c2-4999-b6a0-bb87a9496a37@104.25.12.65:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.12.65:443
+vless://3ed03120-2e95-49bf-afcb-59bc1be5d937@104.21.74.214:443?security=tls&sni=MyDashboard.2FreeNet.Online&type=ws&host=MyDashboard.2FreeNet.Online&path=%2Fwp-admin.php%3Fed%3D2053&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.74.214:443
 vless://ccff34b1-44fd-478d-bc0e-5111cb11f5be@92.53.191.43:443?security=tls&sni=cr7.medicaldream.ir&type=ws&host=cr7.medicaldream.ir&path=%2F%3Fed%3D2550%3F%2F%40JOKERRVPN_Join_Bade_Channel%40JOKERRVPN#🔒 VL-WS-TLS 🇸🇮 SI-92.53.191.43:443
 vless://61958b98-d52a-420e-bb42-a3fd22985895@104.17.248.203:2096?security=tls&sni=italia.dalixw.fun&type=grpc&serviceName=.....&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.248.203:2096
 vless://a04be978-3b21-42cf-a80c-4832894d26f0@172.67.155.241:8080?security=none&type=ws&host=shahed2.novintecc.org&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.155.241:8080
@@ -494,7 +498,3 @@ trojan://67aae342-d53e-4b33-bc16-b70e15b30dc4@45.146.232.173:22271?sni=q08m.vgra
 trojan://123456@192.65.217.53:8443?security=tls&sni=top-azx.pages.dev&type=ws&host=top-azx.pages.dev&path=%2FAz1.vpn.33.TOP%2F%3Fed%3D2560#🔒 TR-WS-TLS 🇦🇺 AU-192.65.217.53:8443
 trojan://blue2024@190.93.244.198:443?sni=td.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-190.93.244.198:443
 trojan://67aae342-d53e-4b33-bc16-b70e15b30dc4@45.146.232.171:43497?sni=q08m.vgraxiw73s.hasyaf.cn&allowInsecure=0#🔒 TR-TCP-NA 🇭🇰 HK-45.146.232.171:43497
-trojan://Aimer@23.94.211.148:443?sni=ngepz.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇺🇸 US-23.94.211.148:443
-trojan://1d0d0aba-8b56-4a08-b3c4-e464a2475065@45.146.232.173:10465?sni=q08m.vgraxiw73s.hasyaf.cn&allowInsecure=0#🔒 TR-TCP-NA 🇭🇰 HK-45.146.232.173:10465
-trojan://67aae342-d53e-4b33-bc16-b70e15b30dc4@45.146.232.171:27102?sni=q08m.vgraxiw73s.hasyaf.cn&allowInsecure=0#🔒 TR-TCP-NA 🇭🇰 HK-45.146.232.171:27102
-trojan://Aimer@162.120.94.23:2087?sni=epccu.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🇺🇸 US-162.120.94.23:2087
