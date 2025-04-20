@@ -1,42 +1,62 @@
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:8888#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.71:8888
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@67.220.95.96:8091#🔒 SS-TCP-NA 🇺🇸 US-67.220.95.96:8091
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@142.202.49.84:8090#🔒 SS-TCP-NA 🇺🇸 US-142.202.49.84:8090
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@156.146.62.160:443#🔒 SS-TCP-NA 🇨🇭 CH-156.146.62.160:443
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@167.88.63.44:443#🔒 SS-TCP-NA 🇺🇸 US-167.88.63.44:443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@221.215.48.117:2377#🔒 SS-TCP-NA 🇨🇳 CN-221.215.48.117:2377
-ss://YWVzLTI1Ni1nY206OVZOUVBSRVZXNjlaMk1HSg==@185.186.79.135:20028#🔒 SS-TCP-NA 🇩🇰 DK-185.186.79.135:20028
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@60.249.35.94:2377#🔒 SS-TCP-NA 🇹🇼 TW-60.249.35.94:2377
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@125.227.86.46:2377#🔒 SS-TCP-NA 🇹🇼 TW-125.227.86.46:2377
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.164:443#🔒 SS-TCP-NA 🇨🇭 CH-156.146.62.164:443
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@47.129.153.91:443#🔒 SS-TCP-NA 🇸🇬 SG-47.129.153.91:443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@18.181.146.122:2377#🔒 SS-TCP-NA 🇯🇵 JP-18.181.146.122:2377
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4a2NZbUt6bFI4RWJ4aU4zcHNIMTVp@2.56.122.207:28711#🔒 SS-TCP-NA 🇨🇾 CY-2.56.122.207:28711
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.239.250:990#🔒 SS-TCP-NA 🇷🇺 RU-185.126.239.250:990
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.157.40.101:7307#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.101:7307
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@95.174.71.27:2377#🔒 SS-TCP-NA 🇺🇸 US-95.174.71.27:2377
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.80:443#🔒 SS-TCP-NA 🇳🇱 NL-149.34.244.80:443
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.110.1.88:5499#🔒 SS-TCP-NA 🇺🇸 US-38.110.1.88:5499
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@18.140.54.43:2377#🔒 SS-TCP-NA 🇸🇬 SG-18.140.54.43:2377
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@60.249.28.138:2377#🔒 SS-TCP-NA 🇹🇼 TW-60.249.28.138:2377
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#🔒 SS-TCP-NA 🇵🇱 PL-45.144.48.63:57456
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@211.22.161.135:2377#🔒 SS-TCP-NA 🇹🇼 TW-211.22.161.135:2377
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@54.95.215.125:2377#🔒 SS-TCP-NA 🇯🇵 JP-54.95.215.125:2377
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@60.249.35.59:2377#🔒 SS-TCP-NA 🇹🇼 TW-60.249.35.59:2377
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MzVhYjVkMi1kZjJlLTRiZTUtOGVmNS1mZWZkOTMyYzJjNDY=@154.83.90.11:52106#🔒 SS-TCP-NA 🇺🇸 US-154.83.90.11:52106
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#🔒 SS-TCP-NA 🇺🇸 US-37.19.198.236:443
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.123.101.241:989#🔒 SS-TCP-NA 🇹🇷 TR-185.123.101.241:989
-ss://YWVzLTEyOC1nY206NTBjV01yOUtia2VnREM5aEhaUE5Bdw==@20.173.66.64:1080#🔒 SS-TCP-NA 🇶🇦 QA-20.173.66.64:1080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@18.179.197.162:2377#🔒 SS-TCP-NA 🇯🇵 JP-18.179.197.162:2377
+ss://YWVzLTEyOC1nY206Njg2MWZjYmMtMWY5NC00ZjVkLTg0ZDUtZTFjZGJhOTkxNTEz@23.80.80.18:45581#🔒 SS-TCP-NA 🇺🇸 US-23.80.80.18:45581
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.121.43.71:8008#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.71:8008
+ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA==@217.30.10.18:9005#🔒 SS-TCP-NA 🇵🇱 PL-217.30.10.18:9005
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.69:8080#🔒 SS-TCP-NA 🇱🇹 LT-45.87.175.69:8080
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M3@149.34.244.72:443#🔒 SS-TCP-NA 🇳🇱 NL-149.34.244.72:443
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@143.244.58.102:443#🔒 SS-TCP-NA 🇨🇿 CZ-143.244.58.102:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@211.22.161.134:2377#🔒 SS-TCP-NA 🇹🇼 TW-211.22.161.134:2377
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpETFc4UXFkZkF2ZlVIU2V1Y01JRjRF@45.8.98.163:2636#🔒 SS-TCP-NA 🇰🇿 KZ-45.8.98.163:2636
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@43.207.207.206:2377#🔒 SS-TCP-NA 🇯🇵 JP-43.207.207.206:2377
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MzVhYjVkMi1kZjJlLTRiZTUtOGVmNS1mZWZkOTMyYzJjNDY=@154.83.90.11:52105#🔒 SS-TCP-NA 🇺🇸 US-154.83.90.11:52105
-ss://YWVzLTI1Ni1nY206VDBFTFM0ODA0QkdYS0dNTw==@45.154.206.189:20038#🔒 SS-TCP-NA 🇪🇸 ES-45.154.206.189:20038
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@139.162.116.7:2377#🔒 SS-TCP-NA 🇯🇵 JP-139.162.116.7:2377
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@178.209.50.206:989#🔒 SS-TCP-NA 🇨🇭 CH-178.209.50.206:989
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@162.251.63.123:5004#🔒 SS-TCP-NA 🇺🇸 US-162.251.63.123:5004
-ss://YWVzLTI1Ni1jZmI6YUxwUXRmRVplNDQ1UXlIaw==@80.92.204.106:9098#🔒 SS-TCP-NA 🇩🇪 DE-80.92.204.106:9098
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@54.250.34.221:2377#🔒 SS-TCP-NA 🇯🇵 JP-54.250.34.221:2377
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NmIxOGFhYi05ZTgzLTQ3OTEtYWI1Ny1iMzQ5NzA0ZmMxNzY=@23.187.72.205:443#🔒 SS-TCP-NA 🇺🇸 US-23.187.72.205:443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@95.174.71.96:2377#🔒 SS-TCP-NA 🇺🇸 US-95.174.71.96:2377
-ss://YWVzLTI1Ni1nY206OFdETFNDVklGQjRJMjZHQg==@154.196.244.21:16011#🔒 SS-TCP-NA 🇸🇬 SG-154.196.244.21:16011
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTamRHQ0h3YWZqa3R0MXJ6cEd4VEtZVHZWQldiOFhhNkU1RFRyNk16YmRIUVN3dnBMaURjemozbjZNQmp5MnV5RlN6Z3FndkNXc0RRbXBNNFZRemZQenlHWUY1OHdkeUQ=@208.67.105.196:42029#🔒 SS-TCP-NA 🇳🇱 NL-208.67.105.196:42029
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.231.233.112:989#🔒 SS-TCP-NA 🇵🇹 PT-185.231.233.112:989
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJWmVxSVVDTWNhbzdSZU5qNUI4M1ly@91.84.109.28:49209#🔒 SS-TCP-NA 🇳🇱 NL-91.84.109.28:49209
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@204.136.10.115:1866#🔒 SS-TCP-NA 🇨🇭 CH-204.136.10.115:1866
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#🔒 SS-TCP-NA 🇺🇸 US-37.19.198.244:443
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443#🔒 SS-TCP-NA 🇺🇸 US-156.146.38.168:443
-ss://bm9uZTphYWJiY2NhLWFjYmEtYWFiYy1jYmFkLWNjY2JiYWFiYWJjYQ==@127.0.0.1:8080#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
+ss://YWVzLTI1Ni1nY206UlE5MEVaQzBHTE0wUEJFQQ==@91.148.134.106:20005#🔒 SS-TCP-NA 🇨🇴 CO-91.148.134.106:20005
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.150.248.50:8090#🔒 SS-TCP-NA 🇺🇸 US-23.150.248.50:8090
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@181.119.30.20:990#🔒 SS-TCP-NA 🇨🇴 CO-181.119.30.20:990
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.110.1.146:8090#🔒 SS-TCP-NA 🇺🇸 US-38.110.1.146:8090
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.223.21.221:989#🔒 SS-TCP-NA 🇭🇰 HK-154.223.21.221:989
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDTHBoeUVNUVQ4bmJHOEVJbVgwQTJE@5.35.47.122:45635#🔒 SS-TCP-NA 🇳🇱 NL-5.35.47.122:45635
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@85.210.166.78:443#🔒 SS-TCP-NA 🇬🇧 GB-85.210.166.78:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@211.72.214.21:2377#🔒 SS-TCP-NA 🇹🇼 TW-211.72.214.21:2377
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MzVhYjVkMi1kZjJlLTRiZTUtOGVmNS1mZWZkOTMyYzJjNDY=@154.83.90.11:52103#🔒 SS-TCP-NA 🇺🇸 US-154.83.90.11:52103
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwN0VoQzhNUjdvN0d1Um4yN1lGOFNRTkFLSjJsVWJCTklqY3lxU21CSHN5OHdMYko3@159.65.149.72:51348#🔒 SS-TCP-NA 🇮🇳 IN-159.65.149.72:51348
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@13.231.106.60:2377#🔒 SS-TCP-NA 🇯🇵 JP-13.231.106.60:2377
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjM0@43.203.237.206:1234#🔒 SS-TCP-NA 🇰🇷 KR-43.203.237.206:1234
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@69.50.93.10:8091#🔒 SS-TCP-NA 🇺🇸 US-69.50.93.10:8091
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@131.145.40.72:443#🔒 SS-TCP-NA 🇬🇧 GB-131.145.40.72:443
+ss://YWVzLTI1Ni1nY206TlA1U0w0UjEyTjBBQlRNSg==@185.186.77.137:20025#🔒 SS-TCP-NA 🇷🇸 RS-185.186.77.137:20025
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@23.251.121.242:8080#🔒 SS-TCP-NA 🇺🇸 US-23.251.121.242:8080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@221.215.48.114:2377#🔒 SS-TCP-NA 🇨🇳 CN-221.215.48.114:2377
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@60.249.35.3:2377#🔒 SS-TCP-NA 🇹🇼 TW-60.249.35.3:2377
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZmVmZDI4ZS1iMmU2LTQ0NjItYTM3OC1jYmM1OGE4NzQ4Zjk=@185.126.134.252:51452#🔒 SS-TCP-NA 🇻🇳 VN-185.126.134.252:51452
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozRkIyM0ExOS05NDI0LTQwQzctOTEzOS0zNTQwMjI4MjgzRkE=@89.213.150.45:40000#🔒 SS-TCP-NA 🇭🇰 HK-89.213.150.45:40000
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@88.210.36.106:2377#🔒 SS-TCP-NA 🇺🇸 US-88.210.36.106:2377
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@95.174.71.28:2377#🔒 SS-TCP-NA 🇺🇸 US-95.174.71.28:2377
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYU2NCMUlIcTB3VVg=@45.141.234.6:443#🔒 SS-TCP-NA 🇮🇪 IE-45.141.234.6:443
+ss://YWVzLTI1Ni1jZmI6Qk5tQVhYeEFIWXBUUmR6dQ==@217.30.10.18:9020#🔒 SS-TCP-NA 🇵🇱 PL-217.30.10.18:9020
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@134.195.196.81:443#🔒 SS-TCP-NA 🇨🇦 CA-134.195.196.81:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpucTk2S2Z0clpBajNMdUZRRVNxbW40NE1vNW9DdW8yY2lwb0VzYWUyNW1ybUhHMm9KNFZUMzdzY0JmVkJwTjVEV3RVRUxadXRWaGhYczhMZTVCOGZaOWhMbjl5dHd2YmY=@208.67.105.87:42501#🔒 SS-TCP-NA 🇳🇱 NL-208.67.105.87:42501
+ss://YWVzLTI1Ni1nY206RFcxQjQ2UFRXUzNYU1BZVQ==@156.245.190.12:15003#🔒 SS-TCP-NA 🇭🇰 HK-156.245.190.12:15003
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#🔒 SS-TCP-NA 🇯🇵 JP-149.22.87.204:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.82:990#🔒 SS-TCP-NA 🇺🇸 US-64.74.163.82:990
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowenlEUloxWG1OWGFhQ0FON0tFQThh@45.151.62.54:28825#🔒 SS-TCP-NA 🇷🇺 RU-45.151.62.54:28825
+ss://YWVzLTI1Ni1nY206WUpDSjBSNFdZMU5XRlUyWQ==@154.196.244.17:16007#🔒 SS-TCP-NA 🇸🇬 SG-154.196.244.17:16007
+ss://YWVzLTI1Ni1nY206MEE4NzZYWlVaWDkzTjM3MQ==@156.231.104.20:18010#🔒 SS-TCP-NA 🇯🇵 JP-156.231.104.20:18010
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@147.78.1.230:989#🔒 SS-TCP-NA 🇲🇽 MX-147.78.1.230:989
+ss://YWVzLTI1Ni1jZmI6ZjYzZ2c4RXJ1RG5Vcm16NA==@80.92.204.106:9010#🔒 SS-TCP-NA 🇩🇪 DE-80.92.204.106:9010
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMcWxQSTE5b3FudW5HTlNMTXZkWHlC@147.45.60.33:16356#🔒 SS-TCP-NA 🇪🇪 EE-147.45.60.33:16356
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@79.127.233.170:990#🔒 SS-TCP-NA 🇨🇦 CA-79.127.233.170:990
+ss://cmM0LW1kNTplZmFuY2N5dW4=@120.240.153.25:8766#🔒 SS-TCP-NA 🇨🇳 CN-120.240.153.25:8766
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.239.250:990#🔒 SS-TCP-NA 🇷🇺 RU-185.126.239.250:990
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@54.169.51.68:2377#🔒 SS-TCP-NA 🇸🇬 SG-54.169.51.68:2377
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.150.152.43:7002#🔒 SS-TCP-NA 🇺🇸 US-23.150.152.43:7002
+ss://bm9uZTphYWJjYmFjLWFhYmMtYWNiYS1jYmRhLWFiY2JjYmFjYWNhYg==@127.0.0.1:8080#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
 vmess://ewogICAgICAgICAgICAidiI6ICIyIiwKICAgICAgICAgICAgInBzIjogIuabtOaWsOS6jiAwNC0yMSAwMToxOCBieSBodHRwczovL2dpdGh1Yi5jb20vdHMtc2YvZmx5IiwKICAgICAgICAgICAgImFkZCI6ICIxMjcuMS4xLjEyNyIsCiAgICAgICAgICAgICJwb3J0IjogIjgwIiwKICAgICAgICAgICAgImlkIjogIjYwMjczNmU0LWEyZTgtNGViMy05ZmM5LTdjNzA4MjkyNTM2NSIsCiAgICAgICAgICAgICJhaWQiOiAiMCIsCiAgICAgICAgICAgICJzY3kiOiAiYXV0byIsCiAgICAgICAgICAgICJuZXQiOiAidGNwIiwKICAgICAgICAgICAgInR5cGUiOiAibm9uZSIsCiAgICAgICAgICAgICJob3N0IjogIiIsCiAgICAgICAgICAgICJwYXRoIjogIiIsCiAgICAgICAgICAgICJ0bHMiOiAiIiwKICAgICAgICAgICAgInNuaSI6ICIiLAogICAgICAgICAgICAiYWxwbiI6ICIiLAogICAgICAgICAgICAiZnAiOiAiIgogICAgICAgICAgfQogICAgICAgIA==
 trojan://blue2024@172.67.160.28:443?security=tls&type=ws&sni=ta.promote.icu&host=ta.promote.icu#%E6%9C%AA%E7%9F%A5
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.193:443#%E6%9C%AA%E7%9F%A52%2014.1MB%2Fs
@@ -478,23 +498,3 @@ ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@34.217.76.113:443#13%7C%E7
 ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@13.124.153.152:443#13%7C%E6%97%A5%E6%9C%AC%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
 vless://2429bee3-e0c1-47dd-b420-75e6512b184b@155.248.219.28:42557?allowInsecure=0&sni=www.yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#14%7CCA_speednode_0001
 vless://7c317161-5cf8-4cbc-811a-d1297c41bb23@152.67.68.116:443?allowInsecure=0&sni=YAPC-1.afshin.ir&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#14%7CCH_speednode_0003
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@beiyong.dynuddns.net:48121?allowInsecure=0&sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#14%7CCN_speednode_0009
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@csuzhou01.1cooldns.com:14548?allowInsecure=0&sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#14%7CCN_speednode_0011
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@bsuqian01.dynu.net:47531?allowInsecure=0&sni=gateway.icloud.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#14%7CCN_speednode_0012
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@shenzhou05.mysynology.net:37809?allowInsecure=0&sni=www.yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#14%7CCN_speednode_0013
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@beiyong.dynuddns.net:29877?allowInsecure=0&sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#14%7CCN_speednode_0014
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@csuzhou01.1cooldns.com:23301?allowInsecure=0&sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#14%7CCN_speednode_0015
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@test123.zlqhdns.top:11555?allowInsecure=0&sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#14%7CCN_speednode_0017
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@zhee01.dynu.net:64654?allowInsecure=0&sni=gateway.icloud.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#14%7CCN_speednode_0018
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@beiyong.dynuddns.net:57926?allowInsecure=1&sni=gateway.icloud.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#14%7CCN_speednode_0019
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@beiyong.dynuddns.net:65053?allowInsecure=1&sni=www.amazon.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#14%7CCN_speednode_0022
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@zhee01.dynu.net:27932?allowInsecure=0&sni=www.amazon.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#14%7CCN_speednode_0025
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@bsuqian01.dynu.net:40581?allowInsecure=0&sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#14%7CCN_speednode_0030
-vless://09e17c97-7f45-4600-a8a8-c3fa76743fa6@3.68.116.86:48160?allowInsecure=0#14%7CDE_speednode_0031
-vless://94fadaf3-ccd8-4734-b372-8772c9bfd147@162.247.5.91:443?allowInsecure=0&sni=tw.qhahd.shop&type=ws&host=tw.qhahd.shop&path=/bingsecurity=tls#14%7CHK_speednode_0032
-vless://2d317da5-47c5-4db4-933f-16d1094668db@hkt-ty-line-1.sudatech.store:20550?allowInsecure=0&sni=www.paypal.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#14%7CHK_speednode_0034
-vless://fcc420da-544b-422a-944f-0ccb2b35acb2@54.168.120.254:16725?allowInsecure=0#14%7CJP_speednode_0035
-vless://abcaa7dc-9b0a-459e-a9fd-a76c161fa432@13.231.172.203:52787?allowInsecure=0#14%7CJP_speednode_0036
-vless://4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.4.158:80?allowInsecure=1&sni=digitalscientificresearchgroup.ir&type=ws&host=digitalscientificresearchgroup.ir&path=/Telegram🇨🇳@WangCai2/?ed=2560#14%7CNL_speednode_0038
-vless://4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.4.25:80?allowInsecure=0&sni=digitalscientificresearchgroup.ir&type=ws&host=digitalscientificresearchgroup.ir&path=/#14%7CNL_speednode_0039
-vless://4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.4.194:80?allowInsecure=0&sni=digitalscientificresearchgroup.ir&type=ws&host=digitalscientificresearchgroup.ir&path=/Telegram🇨🇳@WangCai2#14%7CNL_speednode_0040
