@@ -1,8 +1,3 @@
-ss://YWVzLTI1Ni1nY206ODRYQUpMOFNZVTVERkVPMQ==@156.231.104.14:18004#🔒 SS-TCP-NA 🇯🇵 JP-156.231.104.14:18004
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MzVhYjVkMi1kZjJlLTRiZTUtOGVmNS1mZWZkOTMyYzJjNDY=@154.83.90.11:51105#🔒 SS-TCP-NA 🇺🇸 US-154.83.90.11:51105
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@61.216.165.232:2377#🔒 SS-TCP-NA 🇹🇼 TW-61.216.165.232:2377
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#🔒 SS-TCP-NA 🇹🇷 TR-185.123.101.241:990
-ss://YWVzLTI1Ni1nY206OU5DV0RSVlU3VEE1WTNWUQ==@154.196.244.13:16003#🔒 SS-TCP-NA 🇸🇬 SG-154.196.244.13:16003
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@104.21.96.1:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.96.1:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@221.215.48.117:2377#🔒 SS-TCP-NA 🇨🇳 CN-221.215.48.117:2377
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.141:8080#🔒 SS-TCP-NA 🇫🇷 FR-45.158.171.141:8080
@@ -498,3 +493,8 @@ vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@shenzhou02.mysynology.net:32193?sni
 vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@agaungzhou01.bumbleshrimp.com:40072?sni=www.yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#1%7C%F0%9F%87%AB%F0%9F%87%B72%20%7C%20%203.2MB/s
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@74.176.199.104:443?allowInsecure=1&sni=edccu.ambercc.filegear-sg.me&type=ws&path=/?ed=2560&proxyip=ts.hpc.twsecurity=tls#1%7C%F0%9F%87%B9%F0%9F%87%BC8%20%7C%20%201.6MB/s
 vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@gysz0000.dynu.net:11839?sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#1%7C%F0%9F%87%AF%F0%9F%87%B51%20%7C%20%206.4MB/s
+trojan://Aimer@213.241.198.189:2053?allowInsecure=1&sni=epcco.ambercc.filegear-sg.me&type=ws&path=/?ed=2560&proxyip=ts.hpc.tw#1%7C%F0%9F%87%B9%F0%9F%87%BC9%20%7C%20%204.8MB/s
+vless://42575d2a-3be1-498f-de6d-e33cb79c23a4@209.38.106.92:443?sni=vn98.tv&flow=-udp443&fp=safari&security=tls#1%7C%F0%9F%87%B3%F0%9F%87%B13%20%7C%20%204.0MB/s
+vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@agaungzhou01.bumbleshrimp.com:11733?sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#1%7C%F0%9F%8C%802-KZ%20%7C%20%203.9MB/s
+trojan://Aimer@188.164.159.55:2096?allowInsecure=1&sni=epcco.ambercc.filegear-sg.me&type=ws&path=/?ed=2560&proxyip=ts.hpc.tw#1%7C%F0%9F%87%B9%F0%9F%87%BC10%20%7C%20%201.5MB/s
+vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@bsuqian01.dynu.net:50200?sni=www.amazon.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#1%7C%F0%9F%87%BA%F0%9F%87%B84%20%7C%20%204.2MB/s
