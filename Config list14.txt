@@ -1,3 +1,10 @@
+ss://ffffa97f-516f-4df9-a951-deee216d7988@151.101.128.155:80?security=none&type=ws&host=vipfast_7.com#@Hope_Net-join-us-on-Telegram
+ss://0f38c3a9-e0c0-47ba-c619-0f16933f1d18@151.101.130.228:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#@Hope_Net-join-us-on-Telegram`
+ss://9c22197f-05b5-4748-9904-401b269ee460@www.speedtest.net:2052?security=&type=ws&path=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET?ed%3D2048&host=Www.speedtest.net.mahdijamkaran.online.&encryption=none#[🇨🇦]t.me/ConfigsHub`
+ss://4e118336-5ab5-441e-8824-5f37b3ff54a9@hajlab.ucdavis.edu:80?security=&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=joinshhproxybedeeeeeee.ir&encryption=none#[🇺🇸]t.me/ConfigsHub`
+ss://4d775975-4e89-46af-8947-ecafdfa26530@www.speedtest.net:80?security=&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=Www.speedtest.net.speedtest2.cfd.&encryption=none#[🇨🇦]t.me/ConfigsHub`
+ss://0eb83f3e-7b95-427a-8952-abedfca1869f@tgju.org:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=QW.VU6d72nt9y.zULaiR.orG.&type=ws#telegram
+ss://288aa4ff-4484-4c58-8258-b79b0374c1ce@104.17.147.22:2053?security=tls&sni=netpie.ddns-ip.net&type=ws&host=netpie.ddns-ip.net&path=%2FTelegram-NetPie%3Fed%3D512&fp=chrome#telegram
 ss://41e606c4-c9bb-42a3-9601-55e9ff6f706a@104.17.199.61:443?security=tls&sni=calm-bonus-748d.jixosey717.workers.dev&type=ws&host=calm-bonus-748d.jixosey717.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#telegram
 ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@143.110.137.211:59483?encryption=none&security=none&sni=&type=grpc&host=&path=#telegram
 ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@157.245.166.95:59483?encryption=none&security=none&sni=&type=grpc&host=&path=#telegram
@@ -491,10 +498,3 @@ ss://288aa4ff-4484-4c58-8258-b79b0374c1ce@104.17.147.22:2053?security=tls&sni=ne
 ss://41e606c4-c9bb-42a3-9601-55e9ff6f706a@104.17.199.61:443?security=tls&sni=calm-bonus-748d.jixosey717.workers.dev&type=ws&host=calm-bonus-748d.jixosey717.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#telegram
 ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@143.110.137.211:59483?encryption=none&security=none&sni=&type=grpc&host=&path=#telegram
 ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@157.245.166.95:59483?encryption=none&security=none&sni=&type=grpc&host=&path=#telegram
-ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@167.71.115.156:59483?encryption=none&security=none&sni=&type=grpc&host=&path=#telegram
-ss://4ee5e660-17c3-4bd9-a314-8a9efe7d3250@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=feARless-pEaCe.spOrTLand.COMpAny.&type=ws#telegram
-ss://c2f690dc-6187-48a8-aa8b-b75d43d11df4@www.speedtest.net:2053?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=app15.appdatanew2025g.lat&fp=chrome&type=ws&sni=app15.appdatanew2025g.lat#telegram
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.163:8880/?type=grpc&encryption=none&packetEncoding=xudp#telegram
-ss://ewogICAgImFkZCI6ICIxNzIuNjcuMTgzLjIyMCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogImphaGZramhhLmNmZCIsCiAgICAiaWQiOiAiOTUwZGI2YWEtNDkyNi00NjE2LTgxNmUtZWMwMzEyZGNiODdiIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2xpbmt3cyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICJ0ZWxlZ3JhbSDwn42AIERhaWx5VjJyeSIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsCiAgICAic25pIjogImphaGZramhhLmNmZCIKfQ==
-ss://7a8ad9a0-d01b-4c40-a697-965ac8ae4da7@ir063.v2netservice.uk:8443?security=none&encryption=none&host=ponisha.ir&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub`
-ss://527d06c5-c0ce-4e43-ecd4-0864d3671874@65.109.221.64:23227?security=none&encryption=none&type=ws#%40V2ray1_Ng
