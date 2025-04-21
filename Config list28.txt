@@ -1,3 +1,5 @@
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@142.202.49.84:5004#🔒 SS-TCP-NA 🇺🇸 US-142.202.49.84:5004
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.110.1.88:5499#🔒 SS-TCP-NA 🇺🇸 US-38.110.1.88:5499
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@216.39.248.133:7001#🔒 SS-TCP-NA 🇺🇸 US-216.39.248.133:7001
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@67.220.95.102:6697#🔒 SS-TCP-NA 🇺🇸 US-67.220.95.102:6697
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#🔒 SS-TCP-NA 🇬🇧 GB-85.210.120.237:443
@@ -496,5 +498,3 @@ vless://e2d6455c-9846-4502-8394-16b8c1c07b68@172.66.47.25:443?sni=GrOupYOUNeS.PA
 hysteria2://9f73c619627d6a5d@66.245.192.15:443?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=bd7f765e#9%2C11%7C%E2%9A%A1%EF%B8%8F%20%40vipv2rey%28Hysteria%29%20%231
 hysteria2://KevinZakarian@66.23.198.32:443?insecure=1&sni=www.eliv2ray.net&obfs=salamander&obfs-password=KevinZakarian#9%2C11%7C%40vpnv2rayNGv%20%235
 hysteria2://a278eadd-c35c-403f-a286-7767a74307c1@45.140.169.231:8080?insecure=1&sni=www.eliv2ray.net#9%2C11%7C%40vpnv2rayNGv%20%236
-hysteria2://dongtaiwang.com@51.158.54.46:44550?insecure=1&sni=bing.com#9%2C11%7C%E2%9A%A1%EF%B8%8F%20%40vipv2rey%28Hysteria1%29%20%231
-hysteria2://f6e4b19a3110d19d@66.135.28.59:443?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=8c3ce17b#9%2C11%7C%E2%9A%A1%EF%B8%8F%40vipv2rey%20%28Hysteria%29%20%231

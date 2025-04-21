@@ -1,3 +1,5 @@
+vless://77f680d1-1881-4b16-9eac-b8882c05fe62@190.93.245.137:443?security=tls&sni=WWW.pegAh-Esfahan.De.&type=ws&host=WWW.pegAh-Esfahan.De.&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.245.137:443
+vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@51.81.36.120:443?security=tls&sni=147135010103.sec19org.com&type=tcp&allowInsecure=1#🔒 VL-TCP-TLS 🇺🇸 US-51.81.36.120:443
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.40.154.139:2053?security=tls&sni=CdCyRiRd73.gOzAlBaLaBiYa-bEbInAm.cOm&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-45.40.154.139:2053
 vless://9900e8bb-d01b-42a6-ba16-17f958fa0b6c@199.34.228.165:2096?security=tls&sni=bEAt.MIRaclETaxbiTS.Top.&type=ws&path=/2096/@VRayyNGvpn#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.165:2096
 vless://c8a4ced0-b100-4700-8857-d06ca3b251af@188.114.99.56:443?security=tls&sni=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&type=ws&host=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.99.56:443
@@ -496,5 +498,3 @@ vless://f06ac303-e626-451d-bcfc-ee825ee69398@104.18.1.20:443?security=tls&sni=az
 vless://1b312879-3cdc-4782-a589-6d149d693854@51.77.108.99:13004?security=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#🔒 VL-GRPC-NONE 🇫🇷 FR-51.77.108.99:13004
 vless://12b6fb4e-91a5-4b9c-b23f-aaf7917488fd@104.18.15.19:8880?type=ws&host=0108.9ro3grfw.workers.dev&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.15.19:8880
 vless://d77906a1-59fd-4222-ba9e-3de834bb33e2@172.67.181.89:443?security=tls&sni=vpn442telegram.wucwej.workers.Dev&type=ws&host=vpn442telegram.wucwej.workers.Dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.181.89:443
-vless://b6f52521-c65d-43d6-bca4-76790c68d6fd@104.21.211.74:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.211.74:443
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@108.162.195.236:443?security=tls&sni=edccq.aimercc.filegear-sg.me&type=ws&host=edccq.aimercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.195.236:443

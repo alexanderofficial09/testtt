@@ -1,3 +1,5 @@
+vless://4cfed9ee-71db-429b-b18d-f9f3dbd11bad@198.41.206.64:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.206.64:443
+vless://c5293efa-28f8-4a0f-8f34-541078970cee@199.34.228.164:443?security=tls&sni=gozargah.validbv7996.ir&type=ws&path=%2FoiBBYyE4WkprI2wD%3Fed#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.164:443
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@160.22.79.155:443?security=tls&sni=digitalscientificresearchgroup.ir&type=ws&host=digitalscientificresearchgroup.ir&path=TelegramTW_%40WangCai2%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇸🇬 SG-160.22.79.155:443
 vless://c4d98ed1-69a5-49ad-b785-25fd2e081326@172.67.214.166:2053?security=tls&sni=Poshtiban.ehsa0535.top&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.214.166:2053
 vless://ad8aa9eb-7120-4953-a877-e7206f5a7c3c@188.114.99.99:2096?security=tls&sni=tarasvalete.parhamtraberthos.IR.&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-188.114.99.99:2096
@@ -496,5 +498,3 @@ vless://e36927d6-1ce7-4beb-bd17-11f78506aff8@151.101.128.84:80?security=none&typ
 vless://ed66c352-647e-483b-b1e4-a4cbebfaed1c@172.64.80.1:2095?security=none&type=ws&host=WwW.vaRzesh3.Com.Ftp.debian.Org.Content.tabnak.org.#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.80.1:2095
 vless://8938d63f-7dda-43be-9a1e-819adac28297@160.153.0.183:443?security=tls&sni=QcGpEeHn17.hAmDoLlAh-bAgHeRi.iNfO&type=grpc&fp=chrome&alpn=h3#🔒 VL-GRPC-TLS 🇺🇸 US-160.153.0.183:443
 vless://03ae39fd-ec71-4db5-b234-94de99a6e514@195.85.23.24:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇨🇿 CZ-195.85.23.24:443
-vless://77f680d1-1881-4b16-9eac-b8882c05fe62@190.93.245.137:443?security=tls&sni=WWW.pegAh-Esfahan.De.&type=ws&host=WWW.pegAh-Esfahan.De.&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.245.137:443
-vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@51.81.36.120:443?security=tls&sni=147135010103.sec19org.com&type=tcp&allowInsecure=1#🔒 VL-TCP-TLS 🇺🇸 US-51.81.36.120:443
