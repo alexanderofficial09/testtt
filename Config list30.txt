@@ -1,3 +1,5 @@
+vless://4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.4.108:80?sni=digitalscientificresearchgroup.ir&type=ws&host=digitalscientificresearchgroup.ir&path=/flow=-udp443&fp=#0%7C%F0%9F%87%A9%F0%9F%87%AA14%20%7C%20%205.4MB/s
+trojan://3828095943467868160@supreme-loon.dolphin109.quest:443?allowInsecure=1&sni=supreme-loon.dolphin109.quest#0%7C%F0%9F%8C%808-TR%20%7C%20%205.3MB/s
 trojan://3828095943467868160@blessed-opossum.dolphin109.quest:443?allowInsecure=1&sni=blessed-opossum.dolphin109.quest#0%7C%F0%9F%87%B3%F0%9F%87%B110%20%7C%20%204.6MB/s
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.5.233:80?allowInsecure=0&sni=digitalscientificresearchgroup.ir&type=ws&host=digitalscientificresearchgroup.ir&path=/Telegram🇨🇳@WangCai2#0%2C14%7CNL_speednode_0039
 vless://fefba36d-5142-42f1-b14d-db5249511d93@107.172.132.248:443?sni=iyfglobal.org&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#0%7C%F0%9F%87%BA%F0%9F%87%B830%20%7C%20%202.2MB/s
