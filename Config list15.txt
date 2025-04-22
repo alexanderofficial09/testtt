@@ -1,3 +1,4 @@
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@157.245.166.95:59483?encryption=none&security=none&sni=&type=grpc&host=&path=#telegram
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@167.71.115.156:59483?encryption=none&security=none&sni=&type=grpc&host=&path=#telegram
 vless://4ee5e660-17c3-4bd9-a314-8a9efe7d3250@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=feARless-pEaCe.spOrTLand.COMpAny.&type=ws#telegram
 vless://c2f690dc-6187-48a8-aa8b-b75d43d11df4@www.speedtest.net:2053?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=app15.appdatanew2025g.lat&fp=chrome&type=ws&sni=app15.appdatanew2025g.lat#telegram
@@ -497,4 +498,3 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggMTJ88J+HuvCfh7gg576O5Zu9fEByaXBhb2ppZWRp
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggMTIsMTN8576O5Zu9M3xAcmlwYW9qaWVkaWFuIiwiYWRkIjoidjcuaGVkdWlhbi5saW5rIiwicG9ydCI6IjMwODA3IiwidHlwZSI6Im5vbmUiLCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsImFpZCI6IjIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvb29vbyIsImhvc3QiOiJvY2JjLmNvbSIsInRscyI6IiJ9
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.250.244.203:443#%F0%9F%87%B0%F0%9F%87%B7%2012%7C%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.230.173.71:443#%F0%9F%87%B8%F0%9F%87%AC%2012%7C%F0%9F%87%B8%F0%9F%87%AC%20%E7%8B%AE%E5%9F%8E%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@34.222.45.211:443#%F0%9F%87%AF%F0%9F%87%B5%2012%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%E7%89%B9%E6%AE%8A%7C%40ripaojiedian

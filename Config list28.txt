@@ -1,3 +1,4 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.179:8080#🔒 SS-TCP-NA 🇳🇱 NL-193.29.139.179:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.47:8080#🔒 SS-TCP-NA 🇳🇱 NL-103.104.247.47:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMGZhM2E5Yi0yMTE1LTRjYzAtYThmNS03ZjRmN2NhZjZlYzE=@194.87.30.69:8080#🔒 SS-TCP-NA 🇸🇪 SE-194.87.30.69:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MWE0MWY0ZTAyZGM=@1.65.250.168:31402#🔒 SS-TCP-NA 🇭🇰 HK-1.65.250.168:31402
@@ -497,4 +498,3 @@ trojan://Aimer@162.159.137.225:443?sni=epccu.ambercc.filegear-sg.me#%E6%9C%AA%E7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@88.210.36.107:2377#US17
 trojan://Aimer@188.164.159.185:8443?sni=agepj.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A551
 trojan://Aimer@162.159.38.103:2083?sni=agepq.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A552
-trojan://Aimer@107.172.180.73:3306?sni=epcca.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2

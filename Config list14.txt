@@ -1,3 +1,4 @@
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@167.172.113.251:59483?security=none&type=grpc#@Hope_Net-join-us-on-Telegram
 vless://ffffa97f-516f-4df9-a951-deee216d7988@151.101.128.155:80?security=none&type=ws&host=vipfast_7.com#@Hope_Net-join-us-on-Telegram
 vless://0f38c3a9-e0c0-47ba-c619-0f16933f1d18@151.101.130.228:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#@Hope_Net-join-us-on-Telegram`
 vless://9c22197f-05b5-4748-9904-401b269ee460@www.speedtest.net:2052?security=&type=ws&path=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET?ed%3D2048&host=Www.speedtest.net.mahdijamkaran.online.&encryption=none#[🇨🇦]t.me/ConfigsHub`
@@ -497,4 +498,3 @@ vless://0eb83f3e-7b95-427a-8952-abedfca1869f@tgju.org:8080?path=%2F%3Fed%3D2048&
 vless://288aa4ff-4484-4c58-8258-b79b0374c1ce@104.17.147.22:2053?security=tls&sni=netpie.ddns-ip.net&type=ws&host=netpie.ddns-ip.net&path=%2FTelegram-NetPie%3Fed%3D512&fp=chrome#telegram
 vless://41e606c4-c9bb-42a3-9601-55e9ff6f706a@104.17.199.61:443?security=tls&sni=calm-bonus-748d.jixosey717.workers.dev&type=ws&host=calm-bonus-748d.jixosey717.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#telegram
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@143.110.137.211:59483?encryption=none&security=none&sni=&type=grpc&host=&path=#telegram
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@157.245.166.95:59483?encryption=none&security=none&sni=&type=grpc&host=&path=#telegram

@@ -1,3 +1,4 @@
+vless://6040a753-e35b-4384-8713-96f3c639b621@104.21.21.226:443?security=tls&sni=mm8x01.890689.xyz&type=ws&host=mm8x01.890689.xyz&path=%2FqzS0GzXjVWvcbs2HOmaeWimvT3&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.21.226:443
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.174:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.174:8880
 vless://0ef0630e-544c-4ed0-a4de-861f14695f37@172.66.46.236:443?security=tls&sni=M2-1CM.paGes.DeV&type=ws&host=M2-1CM.paGes.DeV#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.46.236:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.32.1:2087?security=tls&sni=HASti.FReeAirlAINEs.cOm&type=ws&host=HaSti.fReEaIRlAineS.coM&path=%2Ftelegram%40v2ray_alpha%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.32.1:2087
@@ -497,4 +498,3 @@ vless://a8e59566-4420-4493-91ba-029ee0ff6d74@172.67.69.236:2083?security=tls&sni
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@199.34.228.162:443?security=tls&sni=digitalscientificresearchgroup.ir&type=ws&host=digitalscientificresearchgroup.ir&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.162:443
 vless://2b619c86-0173-4779-b1db-91bd18e3a618@104.21.79.221:2096?security=tls&sni=phantom.persia.my&type=ws&path=%2F&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.79.221:2096
 vless://f558f4db-96e5-4e79-8b57-34e39ba4899b@104.21.96.1:8880?security=none&type=ws&host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ws79.cloudfront.net.kiava.fun#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.96.1:8880
-vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.230:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.230:80
