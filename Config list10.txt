@@ -1,3 +1,8 @@
+vless://c92856da-9532-49ec-bb71-d981a623f5c9@104.21.11.28:443?security=tls&sni=freedom6.mamav81785.workers.dev&type=ws&host=freedom6.mamav81785.workers.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.11.28:443
+vless://4cfed9ee-71db-429b-b18d-f9f3dbd11bad@104.16.32.14:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.32.14:443
+vless://dc00f1f8-05b2-4bc0-b851-d4dfe5089329@173.245.49.116:80?security=none&type=ws&host=workerr.aasihmin.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-173.245.49.116:80
+vless://552b2a43-49b4-4f0f-a23a-79e2b5e63e58@172.67.69.236:2087?security=tls&sni=bEAt.MIRaclETaxbiTS.Top.&type=httpupgrade&host=BeAt.mIRacLeTaXbItS.tOP.&path=%2F%40V2rayyNGvpn%3Fed%3D256&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-HTTPUPGRADE-TLS 🏴‍☠️ NA-172.67.69.236:2087
+vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.123:80?security=none&sni=foffmelo.com&type=ws#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.123:80
 vless://25c5cbda-39e5-47ed-b36c-b87ffef2378d@104.18.9.38:2053?security=tls&sni=worker-fancy-base-7d08.yajici1215.workers.DEV&type=ws&host=worker-fancy-base-7d08.yajici1215.workers.DEV&path=%2FTABRIZ.NET%3A%40AZARBAYJAB1%2CTABRIZ.NET%3A%40AZARBAYJAB1%2CTABRIZ.NET%3A%40AZARBAYJAB1%2CTABRIZ.NET%3A%40AZARBAYJAB1%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.9.38:2053
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.227:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.227:80
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.154:80?type=ws&host=redfree8.pooriashop.ir&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#🔒 VL-WS-NA 🇳🇱 NL-45.131.4.154:80
@@ -493,8 +498,3 @@ vless://1688039e-a45f-499e-b9f4-c098c87d3b32@152.69.195.36:443?security=tls&sni=
 vless://e497da22-d020-40fb-a1fa-bc294066a2d2@66.235.200.149:80?type=ws&host=pormang.webhost99.workers.dev&path=/@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1#🔒 VL-WS-NA 🇺🇸 US-66.235.200.149:80
 vless://91774e31-8e83-4949-b8af-b3ddc0b8b9f1@217.60.198.33:80?security=none&type=tcp&path=%2F#🔒 VL-TCP-NONE 🇮🇷 IR-217.60.198.33:80
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.116:80?sni=gozargah.validbv7996.ir&type=ws&host=gozargah.validbv7996.ir&path=/Telegram??@WangCai2flow&allowInsecure=1#🔒 VL-WS-NA 🇳🇱 NL-45.131.4.116:80
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.26:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.26:8880
-vless://ccff34b1-44fd-478d-bc0e-5111cb11f5be@158.101.23.175:443?security=tls&sni=cr777.medicaldream.ir&type=ws&host=cr777.medicaldream.ir&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-158.101.23.175:443
-vless://e89e29b5-9a0c-4a22-b51c-b4c2a9586828@188.114.96.122:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.122:443
-vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.0:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.0:80
-vless://2c699fc7-cc37-4ca3-a7fe-c7ab9355a248@140.238.101.15:443?security=tls&flow=xtls-rprx-vision&sni=767w1-38dc0-9icf2.xn--4gq62f52gppi29k.com&type=tcp&fp=safari#🔒 VL-TCP-TLS 🇬🇧 GB-140.238.101.15:443

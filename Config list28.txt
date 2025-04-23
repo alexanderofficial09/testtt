@@ -1,3 +1,8 @@
+trojan://bpb-trojan@172.66.213.38:443?security=tls&sni=bpb-hd.aaronchin.xyz&type=ws&host=bpb-hd.aaronchin.xyz#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.213.38:443
+trojan://redfree8@104.17.148.22:80?security=none&type=ws&host=redfree8-p1.pooriashop.ir&path=%2FtrLwW5jwrnymnOdqki%3Fed%3D2560#🔒 TR-WS-NONE 🏴‍☠️ NA-104.17.148.22:80
+trojan://Aimer@108.165.152.130:2083?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-108.165.152.130:2083
+trojan://15f5ff0e-1837-4de6-8675-47819d7135e4@45.146.232.171:27001?sni=q08m.vgraxiw73s.hasyaf.cn&allowInsecure=0#🔒 TR-TCP-NA 🇭🇰 HK-45.146.232.171:27001
+trojan://cd0e795a-4f26-4f8c-9981-ed8b7dcb6126@172.67.163.102:443?sni=sDFgHU.931.pP.ua&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.163.102:443
 trojan://19b4d632-0d79-4702-bfc8-1179a7e7a885@45.146.232.171:43383?security=tls&sni=q08m.vgraxiw73s.hasyaf.cn&type=tcp&fp=chrome#🔒 TR-TCP-TLS 🇭🇰 HK-45.146.232.171:43383
 trojan://Aimer@47.91.18.127:443?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇯🇵 JP-47.91.18.127:443
 trojan://amclubs@154.83.2.94:2053?sni=tran.amclubstest.nyc.mn&type=ws&host=tran.amclubstest.nyc.mn&allowInsecure=1#🔒 TR-WS-NA 🇵🇭 PH-154.83.2.94:2053
@@ -493,8 +498,3 @@ ss://YWVzLTI1Ni1nY206NE9BS0o4Q0FTRVJBV1hJMQ==@156.231.104.23:18013#🔒 SS-TCP-N
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.157.40.101:7307#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.101:7307
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOR1ExWQ==@194.124.250.4:8388#🔒 SS-TCP-NA 🇳🇱 NL-194.124.250.4:8388
 ss://YWVzLTI1Ni1nY206TkxHWlhHRzA5RDVGOFg1VQ==@156.245.190.17:15008#🔒 SS-TCP-NA 🇭🇰 HK-156.245.190.17:15008
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@23.247.137.159:2377#🔒 SS-TCP-NA 🇺🇸 US-23.247.137.159:2377
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@43.207.207.206:2377#🔒 SS-TCP-NA 🇯🇵 JP-43.207.207.206:2377
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@60.249.35.94:2377#🔒 SS-TCP-NA 🇹🇼 TW-60.249.35.94:2377
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5YmVmYzlhMzQyZTI=@103.140.136.242:55958#🔒 SS-TCP-NA 🇯🇵 JP-103.140.136.242:55958
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.199:8080#🔒 SS-TCP-NA 🇳🇱 NL-193.29.139.199:8080
